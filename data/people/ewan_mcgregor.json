@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ewan_mcgregor",
+  "name": "Ewan McGregor",
+  "external_ids": {
+    "wikidata": "Q165518",
+    "imdb": "nm0000191"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1971,
+  "death_year": null
+}

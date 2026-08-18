@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_ionesco",
+  "name": "Eva Ionesco",
+  "external_ids": {
+    "wikidata": "Q507972",
+    "imdb": "nm0409561"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1965,
+  "death_year": null
+}
