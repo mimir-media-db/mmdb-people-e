@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_enrique_san_francisco",
+  "name": "Enrique San Francisco",
+  "external_ids": {
+    "wikidata": "Q520118",
+    "imdb": "nm0760640"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2021
+}

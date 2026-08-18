@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elsie_de_brauw",
+  "name": "Elsie de Brauw",
+  "external_ids": {
+    "wikidata": "Q2473875",
+    "imdb": "nm0105984"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

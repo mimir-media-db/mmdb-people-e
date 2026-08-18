@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_bishop",
+  "name": "Ed Bishop",
+  "external_ids": {
+    "wikidata": "Q706134",
+    "imdb": "nm0084042"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1932,
+  "death_year": 2005
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eleanor_columbus",
+  "name": "Eleanor Columbus",
+  "external_ids": {
+    "wikidata": "Q956349",
+    "imdb": "nm0173384"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}
