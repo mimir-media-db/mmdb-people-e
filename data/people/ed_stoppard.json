@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_stoppard",
+  "name": "Ed Stoppard",
+  "external_ids": {
+    "wikidata": "Q2020161",
+    "imdb": "nm0832380"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

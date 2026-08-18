@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_cantona",
+  "name": "Eric Cantona",
+  "external_ids": {
+    "wikidata": "Q170328",
+    "imdb": "nm0134642"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

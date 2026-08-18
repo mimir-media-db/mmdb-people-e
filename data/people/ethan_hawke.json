@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ethan_hawke",
+  "name": "Ethan Hawke",
+  "external_ids": {
+    "wikidata": "Q484615",
+    "imdb": "nm0000160"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

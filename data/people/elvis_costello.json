@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elvis_costello",
+  "name": "Elvis Costello",
+  "external_ids": {
+    "wikidata": "Q206939",
+    "imdb": "nm0004845"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

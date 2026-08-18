@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_egon_nuter",
+  "name": "Egon Nuter",
+  "external_ids": {
+    "wikidata": "Q16405277",
+    "imdb": "nm0638301"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

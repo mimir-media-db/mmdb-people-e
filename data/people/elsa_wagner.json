@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_elsa_wagner",
+  "name": "Elsa Wagner",
+  "external_ids": {
+    "wikidata": "Q110721",
+    "imdb": "nm0905876"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1881,
+  "death_year": 1975
+}

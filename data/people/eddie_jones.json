@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eddie_jones",
+  "name": "Eddie Jones",
+  "external_ids": {
+    "wikidata": "Q3047282",
+    "imdb": "nm0428008"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2019
+}

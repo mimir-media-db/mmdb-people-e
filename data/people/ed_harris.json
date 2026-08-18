@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_harris",
+  "name": "Ed Harris",
+  "external_ids": {
+    "wikidata": "Q104791",
+    "imdb": "nm0000438"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

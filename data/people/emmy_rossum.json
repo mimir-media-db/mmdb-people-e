@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emmy_rossum",
+  "name": "Emmy Rossum",
+  "external_ids": {
+    "wikidata": "Q35912",
+    "imdb": "nm0002536"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

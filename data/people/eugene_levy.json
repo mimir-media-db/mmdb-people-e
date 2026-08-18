@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eugene_levy",
+  "name": "Eugene Levy",
+  "external_ids": {
+    "wikidata": "Q312129",
+    "imdb": "nm0506405"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}
