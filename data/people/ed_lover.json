@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_lover",
+  "name": "Ed Lover",
+  "external_ids": {
+    "wikidata": "Q5335099",
+    "imdb": "nm0522615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

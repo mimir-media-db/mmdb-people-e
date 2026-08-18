@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elizabeth_daily",
+  "name": "Elizabeth Daily",
+  "external_ids": {
+    "wikidata": "Q258255",
+    "imdb": "nm0197354"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edith_scob",
+  "name": "Édith Scob",
+  "external_ids": {
+    "wikidata": "Q273803",
+    "imdb": "nm0778568"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2019
+}

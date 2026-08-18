@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_mendes",
+  "name": "Eva Mendes",
+  "external_ids": {
+    "wikidata": "Q170606",
+    "imdb": "nm0578949"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

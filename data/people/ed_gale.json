@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_gale",
+  "name": "Ed Gale",
+  "external_ids": {
+    "wikidata": "Q768685",
+    "imdb": "nm0301839"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963,
+  "death_year": 2025
+}

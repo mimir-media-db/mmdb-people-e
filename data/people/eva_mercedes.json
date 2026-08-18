@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_mercedes",
+  "name": "Eva Mercedes",
+  "external_ids": {
+    "wikidata": "Q138757357",
+    "imdb": "nm0085270"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

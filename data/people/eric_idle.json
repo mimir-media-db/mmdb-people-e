@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_idle",
+  "name": "Eric Idle",
+  "external_ids": {
+    "wikidata": "Q210741",
+    "imdb": "nm0001385"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

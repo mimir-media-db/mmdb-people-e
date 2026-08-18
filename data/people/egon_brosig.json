@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_egon_brosig",
+  "name": "Egon Brosig",
+  "external_ids": {
+    "wikidata": "Q1298500",
+    "imdb": "nm0112466"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1889,
+  "death_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emilio_estevez",
+  "name": "Emilio Estevez",
+  "external_ids": {
+    "wikidata": "Q220918",
+    "imdb": "nm0000389"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
