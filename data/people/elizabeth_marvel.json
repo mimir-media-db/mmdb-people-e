@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elizabeth_marvel",
+  "name": "Elizabeth Marvel",
+  "external_ids": {
+    "wikidata": "Q76877",
+    "imdb": "nm0555500"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

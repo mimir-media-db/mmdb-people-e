@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ernst_low",
+  "name": "Ernst Löw",
+  "external_ids": {
+    "wikidata": "Q2855258",
+    "imdb": "nm0530560"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
