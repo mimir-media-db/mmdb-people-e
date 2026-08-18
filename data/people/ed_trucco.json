@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_trucco",
+  "name": "Ed Trucco",
+  "external_ids": {
+    "wikidata": "Q22925962",
+    "imdb": "nm0873997"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_manning",
+  "name": "Eric Manning",
+  "external_ids": {
+    "wikidata": "Q64796922",
+    "imdb": "nm1394272"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

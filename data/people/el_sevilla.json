@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_el_sevilla",
+  "name": "El Sevilla",
+  "external_ids": {
+    "wikidata": "Q3815668",
+    "imdb": "nm0989930"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

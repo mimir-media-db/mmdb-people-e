@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ettore_belmondo",
+  "name": "Ettore Belmondo",
+  "external_ids": {
+    "wikidata": "Q3733872",
+    "imdb": "nm0069313"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}
