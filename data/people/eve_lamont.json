@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eve_lamont",
+  "name": "Ève Lamont",
+  "external_ids": {
+    "wikidata": "Q28952235",
+    "imdb": "nm1360069"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_enid_graham",
+  "name": "Enid Graham",
+  "external_ids": {
+    "wikidata": "Q59913901",
+    "imdb": "nm0334027"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
