@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eddie_murphy",
+  "name": "Eddie Murphy",
+  "external_ids": {
+    "wikidata": "Q43874",
+    "imdb": "nm0000552"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

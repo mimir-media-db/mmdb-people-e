@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edelweiss",
+  "name": "Edelweiss",
+  "external_ids": {
+    "wikidata": "Q3718984",
+    "imdb": "nm1521131"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1979,
+  "death_year": null
+}

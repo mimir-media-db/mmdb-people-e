@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_elvis_presley",
+  "name": "Elvis Presley",
+  "external_ids": {
+    "wikidata": "Q303",
+    "imdb": "nm0000062"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1935,
+  "death_year": 1977
+}

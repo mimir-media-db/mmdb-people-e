@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eliza_dushku",
+  "name": "Eliza Dushku",
+  "external_ids": {
+    "wikidata": "Q210200",
+    "imdb": "nm0244630"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1980,
+  "death_year": null
+}

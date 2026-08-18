@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ethan_juan",
+  "name": "Ethan Juan",
+  "external_ids": {
+    "wikidata": "Q706649",
+    "imdb": "nm2432722"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1982,
+  "death_year": null
+}

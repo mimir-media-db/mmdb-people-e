@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ennio_fantastichini",
+  "name": "Ennio Fantastichini",
+  "external_ids": {
+    "wikidata": "Q555190",
+    "imdb": "nm0266890"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1955,
+  "death_year": 2018
+}

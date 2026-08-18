@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_green",
+  "name": "Eva Green",
+  "external_ids": {
+    "wikidata": "Q191644",
+    "imdb": "nm1200692"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1980,
+  "death_year": null
+}

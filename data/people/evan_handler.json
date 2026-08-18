@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_evan_handler",
+  "name": "Evan Handler",
+  "external_ids": {
+    "wikidata": "Q562251",
+    "imdb": "nm0359577"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

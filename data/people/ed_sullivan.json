@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_sullivan",
+  "name": "Ed Sullivan",
+  "external_ids": {
+    "wikidata": "Q83807",
+    "imdb": "nm0838047"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1901,
+  "death_year": 1974
+}

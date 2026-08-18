@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_roberts",
+  "name": "Eric Roberts",
+  "external_ids": {
+    "wikidata": "Q207969",
+    "imdb": "nm0000616"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1956,
+  "death_year": null
+}
