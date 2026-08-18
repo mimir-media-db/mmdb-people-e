@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ella_smith",
+  "name": "Ella Smith",
+  "external_ids": {
+    "wikidata": "Q5364567",
+    "imdb": "nm2119840"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1983,
+  "death_year": null
+}

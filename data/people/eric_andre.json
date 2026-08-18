@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_andre",
+  "name": "Eric André",
+  "external_ids": {
+    "wikidata": "Q5386029",
+    "imdb": "nm2765191"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1983,
+  "death_year": null
+}

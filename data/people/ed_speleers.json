@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_speleers",
+  "name": "Ed Speleers",
+  "external_ids": {
+    "wikidata": "Q345038",
+    "imdb": "nm1968873"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1988,
+  "death_year": null
+}

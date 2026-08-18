@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_emma_roberts",
+  "name": "Emma Roberts",
+  "external_ids": {
+    "wikidata": "Q228598",
+    "imdb": "nm0731075"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1991,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_elizabeth_banks",
+  "name": "Elizabeth Banks",
+  "external_ids": {
+    "wikidata": "Q219373",
+    "imdb": "nm0006969"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1974,
+  "death_year": null
+}

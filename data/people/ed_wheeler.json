@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_wheeler",
+  "name": "Ed Wheeler",
+  "external_ids": {
+    "wikidata": "Q22673360",
+    "imdb": "nm0923815"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1936,
+  "death_year": 2024
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_emilia_schule",
+  "name": "Emilia Schüle",
+  "external_ids": {
+    "wikidata": "Q87594",
+    "imdb": "nm2163092"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1992,
+  "death_year": null
+}

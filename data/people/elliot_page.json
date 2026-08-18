@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_elliot_page",
+  "name": "Elliot Page",
+  "external_ids": {
+    "wikidata": "Q173399",
+    "imdb": "nm0680983"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1987,
+  "death_year": null
+}
