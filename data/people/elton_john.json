@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elton_john",
+  "name": "Elton John",
+  "external_ids": {
+    "wikidata": "Q2808",
+    "imdb": "nm0005056"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

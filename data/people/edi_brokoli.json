@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edi_brokoli",
+  "name": "Edi Brokoli",
+  "external_ids": {
+    "wikidata": "Q12482277",
+    "imdb": "nm1231723"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
