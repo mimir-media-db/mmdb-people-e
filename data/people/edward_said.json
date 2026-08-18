@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edward_said",
+  "name": "Edward Said",
+  "external_ids": {
+    "wikidata": "Q201538",
+    "imdb": "nm0756429"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935,
+  "death_year": 2003
+}

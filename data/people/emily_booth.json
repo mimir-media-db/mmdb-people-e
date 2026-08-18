@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emily_booth",
+  "name": "Emily Booth",
+  "external_ids": {
+    "wikidata": "Q3052362",
+    "imdb": "nm0095696"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

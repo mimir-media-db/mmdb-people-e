@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emade",
+  "name": "Emade",
+  "external_ids": {
+    "wikidata": "Q5368787",
+    "imdb": "nm8838608"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}
