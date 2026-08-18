@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emily_young",
+  "name": "Emily Young",
+  "external_ids": {
+    "wikidata": "Q2555247",
+    "imdb": "nm1369721"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elon_gold",
+  "name": "Elon Gold",
+  "external_ids": {
+    "wikidata": "Q359177",
+    "imdb": "nm0324968"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_erwin_stoff",
+  "name": "Erwin Stoff",
+  "external_ids": {
+    "wikidata": "Q15270277",
+    "imdb": "nm0831098"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

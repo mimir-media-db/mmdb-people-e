@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_esben_storm",
+  "name": "Esben Storm",
+  "external_ids": {
+    "wikidata": "Q743866",
+    "imdb": "nm0832559"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950,
+  "death_year": 2011
+}
