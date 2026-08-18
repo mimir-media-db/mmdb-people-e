@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edie_falco",
+  "name": "Edie Falco",
+  "external_ids": {
+    "wikidata": "Q229034",
+    "imdb": "nm0004908"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

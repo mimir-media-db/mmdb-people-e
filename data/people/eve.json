@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eve",
+  "name": "Eve",
+  "external_ids": {
+    "wikidata": "Q239464",
+    "imdb": "nm1073992"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}
