@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emilia_suomi",
+  "name": "Emilia Suomi",
+  "external_ids": {
+    "wikidata": "Q131566588",
+    "imdb": "nm0256403"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

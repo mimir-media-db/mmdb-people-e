@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_elliot_berlin",
+  "name": "Elliot Berlin",
+  "external_ids": {
+    "wikidata": "Q113509718",
+    "imdb": "nm1198362"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953,
+  "death_year": 2009
+}

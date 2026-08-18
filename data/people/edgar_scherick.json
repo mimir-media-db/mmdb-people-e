@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edgar_scherick",
+  "name": "Edgar Scherick",
+  "external_ids": {
+    "wikidata": "Q3047494",
+    "imdb": "nm0771062"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1924,
+  "death_year": 2002
+}

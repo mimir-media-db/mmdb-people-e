@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_effie_brown",
+  "name": "Effie Brown",
+  "external_ids": {
+    "wikidata": "Q21005720",
+    "imdb": "nm0113500"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}

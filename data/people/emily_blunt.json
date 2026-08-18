@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emily_blunt",
+  "name": "Emily Blunt",
+  "external_ids": {
+    "wikidata": "Q193517",
+    "imdb": "nm1289434"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}
