@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_elle_key",
+  "name": "Elle Key",
+  "external_ids": {
+    "wikidata": "Q71664478",
+    "imdb": "nm0700099"
+  },
+  "last_updated": "2026-08-18"
+}

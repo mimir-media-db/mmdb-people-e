@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ewan_stewart",
+  "name": "Ewan Stewart",
+  "external_ids": {
+    "wikidata": "Q1234673",
+    "imdb": "nm0829380"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}
