@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_john",
+  "name": "Eric John",
+  "external_ids": {
+    "wikidata": "Q31797481",
+    "imdb": "nm2928674"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

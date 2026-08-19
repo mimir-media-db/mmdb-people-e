@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ellie_kemper",
+  "name": "Ellie Kemper",
+  "external_ids": {
+    "wikidata": "Q72077",
+    "imdb": "nm2608689"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
