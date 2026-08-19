@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elliot_kew",
+  "name": "Elliot Kew",
+  "external_ids": {
+    "wikidata": "Q26832670",
+    "imdb": "nm1293047"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

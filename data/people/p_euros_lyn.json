@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_euros_lyn",
+  "name": "Euros Lyn",
+  "external_ids": {
+    "wikidata": "Q2663889",
+    "imdb": "nm0528186"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
