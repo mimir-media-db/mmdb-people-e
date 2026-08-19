@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eve_lindley",
+  "name": "Eve Lindley",
+  "external_ids": {
+    "wikidata": "Q90041935",
+    "imdb": "nm6843400"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}

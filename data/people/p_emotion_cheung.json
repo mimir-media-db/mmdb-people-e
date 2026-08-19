@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emotion_cheung",
+  "name": "Emotion Cheung",
+  "external_ids": {
+    "wikidata": "Q3053166",
+    "imdb": "nm0156470"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
