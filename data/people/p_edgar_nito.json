@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edgar_nito",
+  "name": "Edgar Nito",
+  "external_ids": {
+    "wikidata": "Q130421604",
+    "imdb": "nm4721120"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
