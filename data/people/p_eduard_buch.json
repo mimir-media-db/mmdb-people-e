@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eduard_buch",
+  "name": "Eduard Buch",
+  "external_ids": {
+    "wikidata": "Q110847134",
+    "imdb": "nm2971368"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

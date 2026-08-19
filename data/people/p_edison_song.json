@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edison_song",
+  "name": "Edison Song",
+  "external_ids": {
+    "wikidata": "Q48895643",
+    "imdb": "nm8088062"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
