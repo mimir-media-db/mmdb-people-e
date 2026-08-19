@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eko_fresh",
+  "name": "Eko Fresh",
+  "external_ids": {
+    "wikidata": "Q492219",
+    "imdb": "nm1506012"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

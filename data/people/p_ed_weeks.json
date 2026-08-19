@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_weeks",
+  "name": "Ed Weeks",
+  "external_ids": {
+    "wikidata": "Q16221242",
+    "imdb": "nm2819460"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

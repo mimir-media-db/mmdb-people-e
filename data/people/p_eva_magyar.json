@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_magyar",
+  "name": "Éva Magyar",
+  "external_ids": {
+    "wikidata": "Q107637815",
+    "imdb": "nm0536676"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
