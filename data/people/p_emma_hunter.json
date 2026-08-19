@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emma_hunter",
+  "name": "Emma Hunter",
+  "external_ids": {
+    "wikidata": "Q47542822",
+    "imdb": "nm3408189"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
