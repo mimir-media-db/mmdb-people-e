@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_benz",
+  "name": "Eric Benz",
+  "external_ids": {
+    "wikidata": "Q1351095",
+    "imdb": "nm0073112"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
