@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emma_darcy",
+  "name": "Emma D'Arcy",
+  "external_ids": {
+    "wikidata": "Q101232509",
+    "imdb": "nm8458664"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
