@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_peron",
+  "name": "Eva Perón",
+  "external_ids": {
+    "wikidata": "Q40933",
+    "imdb": "nm0675831"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1919,
+  "death_year": 1952
+}

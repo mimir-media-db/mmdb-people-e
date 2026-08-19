@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emmanuel_macron",
+  "name": "Emmanuel Macron",
+  "external_ids": {
+    "wikidata": "Q3052772",
+    "imdb": "nm6960621"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
