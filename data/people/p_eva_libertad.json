@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_libertad",
+  "name": "Eva Libertad",
+  "external_ids": {
+    "wikidata": "Q123612026",
+    "imdb": "nm2074102"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

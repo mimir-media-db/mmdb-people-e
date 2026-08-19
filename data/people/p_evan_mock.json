@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_evan_mock",
+  "name": "Evan Mock",
+  "external_ids": {
+    "wikidata": "Q106680513",
+    "imdb": "nm11956536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emil_ejdemo_beer",
+  "name": "Emil Ejdemo Beer",
+  "external_ids": {
+    "wikidata": "Q113960293",
+    "imdb": "nm7326524"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
