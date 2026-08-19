@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eddie_vedder",
+  "name": "Eddie Vedder",
+  "external_ids": {
+    "wikidata": "Q221535",
+    "imdb": "nm0891641"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

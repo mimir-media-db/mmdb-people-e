@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_effie",
+  "name": "Effie",
+  "external_ids": {
+    "wikidata": "Q138974008",
+    "imdb": "nm7565396"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}
