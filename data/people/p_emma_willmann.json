@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emma_willmann",
+  "name": "Emma Willmann",
+  "external_ids": {
+    "wikidata": "Q28967769",
+    "imdb": "nm4121886"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
