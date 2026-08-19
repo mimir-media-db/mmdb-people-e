@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eddie_mcgee",
+  "name": "Eddie McGee",
+  "external_ids": {
+    "wikidata": "Q5336295",
+    "imdb": "nm0569068"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

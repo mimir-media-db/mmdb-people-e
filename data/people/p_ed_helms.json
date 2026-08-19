@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ed_helms",
+  "name": "Ed Helms",
+  "external_ids": {
+    "wikidata": "Q328790",
+    "imdb": "nm1159180"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

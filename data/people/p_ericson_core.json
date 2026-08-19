@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ericson_core",
+  "name": "Ericson Core",
+  "external_ids": {
+    "wikidata": "Q17565526",
+    "imdb": "nm0179697"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_pope",
+  "name": "Eva Pope",
+  "external_ids": {
+    "wikidata": "Q5415154",
+    "imdb": "nm0691116"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
