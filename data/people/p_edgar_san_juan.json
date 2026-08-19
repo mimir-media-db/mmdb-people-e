@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edgar_san_juan",
+  "name": "Edgar San Juan",
+  "external_ids": {
+    "wikidata": "Q59565451",
+    "imdb": "nm1450238"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edgar_oliver",
+  "name": "Edgar Oliver",
+  "external_ids": {
+    "wikidata": "Q5337405",
+    "imdb": "nm1161045"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

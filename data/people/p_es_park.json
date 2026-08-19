@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_es_park",
+  "name": "E.S. Park",
+  "external_ids": {
+    "wikidata": "Q123360573",
+    "imdb": "nm3201312"
+  },
+  "last_updated": "2026-08-19"
+}
