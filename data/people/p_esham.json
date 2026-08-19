@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_esham",
+  "name": "Esham",
+  "external_ids": {
+    "wikidata": "Q1238828",
+    "imdb": "nm1822570"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}

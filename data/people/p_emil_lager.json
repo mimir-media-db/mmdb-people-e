@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_emil_lager",
+  "name": "Emil Lager",
+  "external_ids": {
+    "wikidata": "Q66520825",
+    "imdb": "nm3007560"
+  },
+  "last_updated": "2026-08-19"
+}

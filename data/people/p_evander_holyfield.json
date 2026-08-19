@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_evander_holyfield",
+  "name": "Evander Holyfield",
+  "external_ids": {
+    "wikidata": "Q313451",
+    "imdb": "nm0005018"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}
