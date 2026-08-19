@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elio",
+  "name": "Elio",
+  "external_ids": {
+    "wikidata": "Q1058124",
+    "imdb": "nm0253633"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
