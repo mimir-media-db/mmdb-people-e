@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emma_hamilton",
+  "name": "Emma Hamilton",
+  "external_ids": {
+    "wikidata": "Q3052469",
+    "imdb": "nm2919807"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

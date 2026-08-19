@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edmunds_jansons",
+  "name": "Edmunds Jansons",
+  "external_ids": {
+    "wikidata": "Q16355638",
+    "imdb": "nm4746844"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_emily_addison",
+  "name": "Emily Addison",
+  "external_ids": {
+    "wikidata": "Q5372028",
+    "imdb": "nm3720536"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
