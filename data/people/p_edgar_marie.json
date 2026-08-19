@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_edgar_marie",
+  "name": "Edgar Marie",
+  "external_ids": {
+    "wikidata": "Q18215245",
+    "imdb": "nm4830242"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}
