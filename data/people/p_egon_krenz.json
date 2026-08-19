@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_egon_krenz",
+  "name": "Egon Krenz",
+  "external_ids": {
+    "wikidata": "Q2602",
+    "imdb": "nm0470865"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1937
+}
