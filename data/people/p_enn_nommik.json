@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_enn_nommik",
+  "name": "Enn Nõmmik",
+  "external_ids": {
+    "wikidata": "Q16405423",
+    "imdb": "nm1816268"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962
+}

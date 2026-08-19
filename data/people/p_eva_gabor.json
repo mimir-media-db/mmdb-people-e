@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eva_gabor",
+  "name": "Eva Gabor",
+  "external_ids": {
+    "wikidata": "Q235928",
+    "imdb": "nm0001247"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1919,
+  "death_year": 1995
+}
