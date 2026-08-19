@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_evan_bird",
+  "name": "Evan Bird",
+  "external_ids": {
+    "wikidata": "Q18086073",
+    "imdb": "nm3909032"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}

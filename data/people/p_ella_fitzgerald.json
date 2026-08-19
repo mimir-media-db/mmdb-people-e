@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ella_fitzgerald",
+  "name": "Ella Fitzgerald",
+  "external_ids": {
+    "wikidata": "Q1768",
+    "imdb": "nm0280228"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1917,
+  "death_year": 1996
+}

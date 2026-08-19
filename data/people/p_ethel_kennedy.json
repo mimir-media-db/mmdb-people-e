@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ethel_kennedy",
+  "name": "Ethel Kennedy",
+  "external_ids": {
+    "wikidata": "Q258661",
+    "imdb": "nm0448026"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1928,
+  "death_year": 2024
+}
