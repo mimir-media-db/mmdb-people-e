@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_red",
+  "name": "Eric Red",
+  "external_ids": {
+    "wikidata": "Q369201",
+    "imdb": "nm0714599"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
