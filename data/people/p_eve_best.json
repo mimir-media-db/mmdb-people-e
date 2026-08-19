@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eve_best",
+  "name": "Eve Best",
+  "external_ids": {
+    "wikidata": "Q2406771",
+    "imdb": "nm0078925"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
