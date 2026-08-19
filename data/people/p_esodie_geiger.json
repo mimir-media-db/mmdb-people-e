@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_esodie_geiger",
+  "name": "Esodie Geiger",
+  "external_ids": {
+    "wikidata": "Q67859561",
+    "imdb": "nm0311901"
+  },
+  "last_updated": "2026-08-19"
+}

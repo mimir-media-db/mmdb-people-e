@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eugene_ionesco",
+  "name": "Eugène Ionesco",
+  "external_ids": {
+    "wikidata": "Q46706",
+    "imdb": "nm0409560"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1909,
+  "death_year": 1994
+}
