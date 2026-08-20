@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ebbot_lundberg",
+  "name": "Ebbot Lundberg",
+  "external_ids": {
+    "wikidata": "Q5331556",
+    "imdb": "nm1736268"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
