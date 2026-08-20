@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_pearson",
+  "name": "Eric Pearson",
+  "external_ids": {
+    "wikidata": "Q42244196",
+    "imdb": "nm3069408"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}

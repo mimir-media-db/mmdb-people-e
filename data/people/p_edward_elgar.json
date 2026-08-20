@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edward_elgar",
+  "name": "Edward Elgar",
+  "external_ids": {
+    "wikidata": "Q179631",
+    "imdb": "nm0253365"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1857,
+  "death_year": 1934
+}
