@@ -6793,6 +6793,12 @@
     "path": "data/people/p_el_nino.json"
   },
   {
+    "id": "p_el_petit_de_cal_eril",
+    "name": "El Petit de Cal Eril",
+    "birth_year": 1981,
+    "path": "data/people/p_el_petit_de_cal_eril.json"
+  },
+  {
     "id": "p_el_petitet",
     "name": "El Petitet",
     "birth_year": 1961,
@@ -9670,6 +9676,12 @@
     "path": "data/people/p_elisa_donovan.json"
   },
   {
+    "id": "p_elisa_dor",
+    "name": "Elisa Dor",
+    "birth_year": 1953,
+    "path": "data/people/p_elisa_dor.json"
+  },
+  {
     "id": "p_elisa_drabben",
     "name": "Elisa Drabben",
     "birth_year": 1996,
@@ -11289,6 +11301,11 @@
     "path": "data/people/p_elizabeth_kirabo.json"
   },
   {
+    "id": "p_elizabeth_koumagnon",
+    "name": "Elizabeth Koumagnon",
+    "path": "data/people/p_elizabeth_koumagnon.json"
+  },
+  {
     "id": "p_elizabeth_kucinich",
     "name": "Elizabeth Kucinich",
     "birth_year": 1977,
@@ -11393,6 +11410,12 @@
     "name": "Elizabeth McRae",
     "birth_year": 1936,
     "path": "data/people/p_elizabeth_mcrae.json"
+  },
+  {
+    "id": "p_elizabeth_meriwether",
+    "name": "Elizabeth Meriwether",
+    "birth_year": 1981,
+    "path": "data/people/p_elizabeth_meriwether.json"
   },
   {
     "id": "p_elizabeth_michael",
@@ -15108,6 +15131,12 @@
     "path": "data/people/p_emel_goksu.json"
   },
   {
+    "id": "p_emel_mathlouthi",
+    "name": "Emel Mathlouthi",
+    "birth_year": 1982,
+    "path": "data/people/p_emel_mathlouthi.json"
+  },
+  {
     "id": "p_emel_sayn",
     "name": "Emel Sayın",
     "birth_year": 1945,
@@ -15809,6 +15838,12 @@
     "name": "Émile Biasini",
     "birth_year": 1922,
     "path": "data/people/p_emile_biasini.json"
+  },
+  {
+    "id": "p_emile_bode",
+    "name": "Emile Bode",
+    "birth_year": 1953,
+    "path": "data/people/p_emile_bode.json"
   },
   {
     "id": "p_emile_cherif",
@@ -19570,6 +19605,12 @@
     "name": "Emrah Demir",
     "birth_year": 1981,
     "path": "data/people/p_emrah_demir.json"
+  },
+  {
+    "id": "p_emrah_serbes",
+    "name": "Emrah Serbes",
+    "birth_year": 1981,
+    "path": "data/people/p_emrah_serbes.json"
   },
   {
     "id": "p_emre_akay",
@@ -24165,6 +24206,12 @@
     "path": "data/people/p_eric_viellard.json"
   },
   {
+    "id": "p_eric_vinaixa",
+    "name": "Èric Vinaixa",
+    "birth_year": 1976,
+    "path": "data/people/p_eric_vinaixa.json"
+  },
+  {
     "id": "p_eric_vogel",
     "name": "Eric Vogel",
     "birth_year": 1906,
@@ -24642,6 +24689,12 @@
     "id": "p_erich_sturm",
     "name": "Erich Sturm",
     "path": "data/people/p_erich_sturm.json"
+  },
+  {
+    "id": "p_erich_tomek",
+    "name": "Erich Tomek",
+    "birth_year": 1930,
+    "path": "data/people/p_erich_tomek.json"
   },
   {
     "id": "p_erich_von_stroheim",
@@ -31074,6 +31127,12 @@
     "path": "data/people/p_eva_husson.json"
   },
   {
+    "id": "p_eva_ibbotson",
+    "name": "Eva Ibbotson",
+    "birth_year": 1925,
+    "path": "data/people/p_eva_ibbotson.json"
+  },
+  {
     "id": "p_eva_igo",
     "name": "Éva Igó",
     "birth_year": 1956,
@@ -33917,6 +33976,12 @@
     "name": "Ewa Skibińska",
     "birth_year": 1963,
     "path": "data/people/p_ewa_skibinska.json"
+  },
+  {
+    "id": "p_ewa_skoczkowska",
+    "name": "Ewa Skoczkowska",
+    "birth_year": 1956,
+    "path": "data/people/p_ewa_skoczkowska.json"
   },
   {
     "id": "p_ewa_skonieczna",
