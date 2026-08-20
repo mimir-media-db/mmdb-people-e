@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_erik_satie",
+  "name": "Erik Satie",
+  "external_ids": {
+    "wikidata": "Q187192",
+    "imdb": "nm0006273"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1866,
+  "death_year": 1925
+}

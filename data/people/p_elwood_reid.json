@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elwood_reid",
+  "name": "Elwood Reid",
+  "external_ids": {
+    "wikidata": "Q5368346",
+    "imdb": "nm1277149"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}
