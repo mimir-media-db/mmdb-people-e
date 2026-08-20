@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_singer",
+  "name": "Eric Singer",
+  "external_ids": {
+    "wikidata": "Q313854",
+    "imdb": "nm0801928"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}
