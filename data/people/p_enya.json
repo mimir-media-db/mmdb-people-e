@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_enya",
+  "name": "Enya",
+  "external_ids": {
+    "wikidata": "Q38257",
+    "imdb": "nm0258216"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
