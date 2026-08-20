@@ -2085,6 +2085,12 @@
     "path": "data/people/p_edgardo_nieva.json"
   },
   {
+    "id": "p_edgardo_rudnitzky",
+    "name": "Edgardo Rudnitzky",
+    "birth_year": 1955,
+    "path": "data/people/p_edgardo_rudnitzky.json"
+  },
+  {
     "id": "p_edgardo_viereck",
     "name": "Edgardo Viereck",
     "path": "data/people/p_edgardo_viereck.json"
@@ -2481,6 +2487,12 @@
     "path": "data/people/p_edmond_yuen.json"
   },
   {
+    "id": "p_edmund_butt",
+    "name": "Edmund Butt",
+    "birth_year": 1952,
+    "path": "data/people/p_edmund_butt.json"
+  },
+  {
     "id": "p_edmund_chen",
     "name": "Edmund Chen",
     "birth_year": 1962,
@@ -2652,6 +2664,12 @@
     "name": "Edoardo Ballerini",
     "birth_year": 1970,
     "path": "data/people/p_edoardo_ballerini.json"
+  },
+  {
+    "id": "p_edoardo_bennato",
+    "name": "Edoardo Bennato",
+    "birth_year": 1946,
+    "path": "data/people/p_edoardo_bennato.json"
   },
   {
     "id": "p_edoardo_costa",
@@ -2907,6 +2925,12 @@
     "id": "p_edson_spinello",
     "name": "Edson Spinello",
     "path": "data/people/p_edson_spinello.json"
+  },
+  {
+    "id": "p_edu_lobo",
+    "name": "Edu Lobo",
+    "birth_year": 1943,
+    "path": "data/people/p_edu_lobo.json"
   },
   {
     "id": "p_edu_manzano",
@@ -4200,6 +4224,12 @@
     "name": "Edward Randell",
     "birth_year": 1988,
     "path": "data/people/p_edward_randell.json"
+  },
+  {
+    "id": "p_edward_riche",
+    "name": "Edward Riche",
+    "birth_year": 1961,
+    "path": "data/people/p_edward_riche.json"
   },
   {
     "id": "p_edward_rowe",
@@ -7626,6 +7656,12 @@
     "path": "data/people/p_eleni_haupt.json"
   },
   {
+    "id": "p_eleni_karaindrou",
+    "name": "Eleni Karaindrou",
+    "birth_year": 1941,
+    "path": "data/people/p_eleni_karaindrou.json"
+  },
+  {
     "id": "p_eleni_kastani",
     "name": "Eleni Kastani",
     "birth_year": 1960,
@@ -8138,6 +8174,12 @@
     "id": "p_eli_steele",
     "name": "Eli Steele",
     "path": "data/people/p_eli_steele.json"
+  },
+  {
+    "id": "p_eli_tavor",
+    "name": "Eli Tavor",
+    "birth_year": 1934,
+    "path": "data/people/p_eli_tavor.json"
   },
   {
     "id": "p_eli_wallach",
@@ -10610,6 +10652,11 @@
     "path": "data/people/p_elizabeth_chambers.json"
   },
   {
+    "id": "p_elizabeth_chandler",
+    "name": "Elizabeth Chandler",
+    "path": "data/people/p_elizabeth_chandler.json"
+  },
+  {
     "id": "p_elizabeth_chomko",
     "name": "Elizabeth Chomko",
     "birth_year": 1980,
@@ -11159,6 +11206,12 @@
     "id": "p_elizabeth_woodward",
     "name": "Elizabeth Woodward",
     "path": "data/people/p_elizabeth_woodward.json"
+  },
+  {
+    "id": "p_elizabeth_wurtzel",
+    "name": "Elizabeth Wurtzel",
+    "birth_year": 1967,
+    "path": "data/people/p_elizabeth_wurtzel.json"
   },
   {
     "id": "p_elizabeth_x",
@@ -19219,6 +19272,12 @@
     "path": "data/people/p_enda_oates.json"
   },
   {
+    "id": "p_enda_walsh",
+    "name": "Enda Walsh",
+    "birth_year": 1967,
+    "path": "data/people/p_enda_walsh.json"
+  },
+  {
     "id": "p_endah_laras",
     "name": "Endah laras",
     "birth_year": 1976,
@@ -20437,6 +20496,12 @@
     "path": "data/people/p_enver_petrovci.json"
   },
   {
+    "id": "p_enya",
+    "name": "Enya",
+    "birth_year": 1961,
+    "path": "data/people/p_enya.json"
+  },
+  {
     "id": "p_enya_baroux",
     "name": "Enya Baroux",
     "birth_year": 1991,
@@ -21292,6 +21357,12 @@
     "name": "Eric Alés Hernàndez",
     "birth_year": 1998,
     "path": "data/people/p_eric_ales_hernandez.json"
+  },
+  {
+    "id": "p_eric_allaman",
+    "name": "Eric Allaman",
+    "birth_year": 1952,
+    "path": "data/people/p_eric_allaman.json"
   },
   {
     "id": "p_eric_allan_kramer",
@@ -22946,6 +23017,12 @@
     "path": "data/people/p_eric_roberts.json"
   },
   {
+    "id": "p_eric_robertson",
+    "name": "Eric Robertson",
+    "birth_year": 1948,
+    "path": "data/people/p_eric_robertson.json"
+  },
+  {
     "id": "p_eric_robidoux",
     "name": "Éric Robidoux",
     "path": "data/people/p_eric_robidoux.json"
@@ -23919,6 +23996,12 @@
     "id": "p_erik_benson",
     "name": "Erik Benson",
     "path": "data/people/p_erik_benson.json"
+  },
+  {
+    "id": "p_erik_bergquist",
+    "name": "Erik Bergquist",
+    "birth_year": 1967,
+    "path": "data/people/p_erik_bergquist.json"
   },
   {
     "id": "p_erik_bernasconi",
@@ -26989,6 +27072,12 @@
     "name": "Esko Roine",
     "birth_year": 1944,
     "path": "data/people/p_esko_roine.json"
+  },
+  {
+    "id": "p_esko_salervo",
+    "name": "Esko Salervo",
+    "birth_year": 1954,
+    "path": "data/people/p_esko_salervo.json"
   },
   {
     "id": "p_esko_salminen",
@@ -31156,6 +31245,12 @@
     "path": "data/people/p_evan_ellingson.json"
   },
   {
+    "id": "p_evan_evans",
+    "name": "Evan Evans",
+    "birth_year": 1975,
+    "path": "data/people/p_evan_evans.json"
+  },
+  {
     "id": "p_evan_freed",
     "name": "Evan Freed",
     "birth_year": 1946,
@@ -32417,6 +32512,12 @@
     "path": "data/people/p_evi_saoulidou.json"
   },
   {
+    "id": "p_eviatar_banai",
+    "name": "Eviatar Banai",
+    "birth_year": 1973,
+    "path": "data/people/p_eviatar_banai.json"
+  },
+  {
     "id": "p_evie_campbell",
     "name": "Evie Campbell",
     "birth_year": 1999,
@@ -32518,6 +32619,12 @@
     "name": "Evžen Boček",
     "birth_year": 1966,
     "path": "data/people/p_evzen_bocek.json"
+  },
+  {
+    "id": "p_evzen_gogela",
+    "name": "Evzen Gogela",
+    "birth_year": 1967,
+    "path": "data/people/p_evzen_gogela.json"
   },
   {
     "id": "p_evzen_hajek",
