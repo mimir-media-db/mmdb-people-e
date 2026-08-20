@@ -120,6 +120,12 @@
     "path": "data/people/p_ea_johanna_sandberg.json"
   },
   {
+    "id": "p_ea_martin",
+    "name": "E.A. Martin",
+    "birth_year": 1876,
+    "path": "data/people/p_ea_martin.json"
+  },
+  {
     "id": "p_ea_rocha",
     "name": "E.A. Rocha",
     "path": "data/people/p_ea_rocha.json"
@@ -3515,6 +3521,12 @@
     "path": "data/people/p_eduardo_galvao.json"
   },
   {
+    "id": "p_eduardo_gamboa",
+    "name": "Eduardo Gamboa",
+    "birth_year": 1984,
+    "path": "data/people/p_eduardo_gamboa.json"
+  },
+  {
     "id": "p_eduardo_gamboa_martinez",
     "name": "Eduardo Gamboa Martínez",
     "birth_year": 1956,
@@ -4316,6 +4328,12 @@
     "path": "data/people/p_edward_kagutuzi.json"
   },
   {
+    "id": "p_edward_kitsis",
+    "name": "Edward Kitsis",
+    "birth_year": 1971,
+    "path": "data/people/p_edward_kitsis.json"
+  },
+  {
     "id": "p_edward_klosinski",
     "name": "Edward Klosinski",
     "birth_year": 1943,
@@ -4817,6 +4835,12 @@
     "id": "p_edwin_visser",
     "name": "Edwin Visser",
     "path": "data/people/p_edwin_visser.json"
+  },
+  {
+    "id": "p_edwin_wendler",
+    "name": "Edwin Wendler",
+    "birth_year": 1975,
+    "path": "data/people/p_edwin_wendler.json"
   },
   {
     "id": "p_edwina_findley",
@@ -6033,6 +6057,12 @@
     "name": "Eilif Hellum Noraker",
     "birth_year": 1999,
     "path": "data/people/p_eilif_hellum_noraker.json"
+  },
+  {
+    "id": "p_eilis_kirwan",
+    "name": "Eilis Kirwan",
+    "birth_year": 1971,
+    "path": "data/people/p_eilis_kirwan.json"
   },
   {
     "id": "p_eilish_ocarroll",
@@ -11394,6 +11424,12 @@
     "path": "data/people/p_elizabeth_morehead.json"
   },
   {
+    "id": "p_elizabeth_morris",
+    "name": "Elizabeth Morris",
+    "birth_year": 1971,
+    "path": "data/people/p_elizabeth_morris.json"
+  },
+  {
     "id": "p_elizabeth_olin",
     "name": "Elizabeth Olin",
     "path": "data/people/p_elizabeth_olin.json"
@@ -11706,6 +11742,11 @@
     "name": "Elke Czischek",
     "birth_year": 1961,
     "path": "data/people/p_elke_czischek.json"
+  },
+  {
+    "id": "p_elke_de_gezelle",
+    "name": "Elke de Gezelle",
+    "path": "data/people/p_elke_de_gezelle.json"
   },
   {
     "id": "p_elke_hauck",
@@ -15862,6 +15903,12 @@
     "path": "data/people/p_emilee_wallace.json"
   },
   {
+    "id": "p_emili_teixidor",
+    "name": "Emili Teixidor",
+    "birth_year": 1932,
+    "path": "data/people/p_emili_teixidor.json"
+  },
+  {
     "id": "p_emilia_attias",
     "name": "Emilia Attías",
     "birth_year": 1987,
@@ -16619,6 +16666,12 @@
     "name": "Emilio Bonucci",
     "birth_year": 1948,
     "path": "data/people/p_emilio_bonucci.json"
+  },
+  {
+    "id": "p_emilio_bozzano",
+    "name": "Emilio Bozzano",
+    "birth_year": 1840,
+    "path": "data/people/p_emilio_bozzano.json"
   },
   {
     "id": "p_emilio_buale",
@@ -19709,6 +19762,12 @@
     "path": "data/people/p_enas_mekky.json"
   },
   {
+    "id": "p_enaut_etxamendi",
+    "name": "Eñaut Etxamendi",
+    "birth_year": 1935,
+    "path": "data/people/p_enaut_etxamendi.json"
+  },
+  {
     "id": "p_enayatallah_shafiei",
     "name": "Enayatallah Shafiei",
     "birth_year": 1951,
@@ -20404,6 +20463,12 @@
     "path": "data/people/p_enrico_caria.json"
   },
   {
+    "id": "p_enrico_chapela",
+    "name": "Enrico Chapela",
+    "birth_year": 1974,
+    "path": "data/people/p_enrico_chapela.json"
+  },
+  {
     "id": "p_enrico_chiappafreddo",
     "name": "Enrico Chiappafreddo",
     "birth_year": 1928,
@@ -20997,6 +21062,12 @@
     "path": "data/people/p_enrique_viciano.json"
   },
   {
+    "id": "p_enrique_vilamatas",
+    "name": "Enrique Vila-Matas",
+    "birth_year": 1948,
+    "path": "data/people/p_enrique_vilamatas.json"
+  },
+  {
     "id": "p_enrique_villen",
     "name": "Enrique Villén",
     "birth_year": 1960,
@@ -21338,6 +21409,12 @@
     "name": "Ephraim Shamir",
     "birth_year": 1951,
     "path": "data/people/p_ephraim_shamir.json"
+  },
+  {
+    "id": "p_ephraim_sidon",
+    "name": "Ephraim Sidon",
+    "birth_year": 1946,
+    "path": "data/people/p_ephraim_sidon.json"
   },
   {
     "id": "p_ephraim_sykes",
@@ -22802,6 +22879,12 @@
     "path": "data/people/p_eric_garcetti.json"
   },
   {
+    "id": "p_eric_garcia",
+    "name": "Eric Garcia",
+    "birth_year": 1972,
+    "path": "data/people/p_eric_garcia.json"
+  },
+  {
     "id": "p_eric_gauthier",
     "name": "Eric Gauthier",
     "birth_year": 1976,
@@ -22954,6 +23037,12 @@
     "name": "Eric Holder",
     "birth_year": 1960,
     "path": "data/people/p_eric_holder.json"
+  },
+  {
+    "id": "p_eric_holland",
+    "name": "Eric Holland",
+    "birth_year": 1921,
+    "path": "data/people/p_eric_holland.json"
   },
   {
     "id": "p_eric_houzelot",
@@ -23724,6 +23813,12 @@
     "name": "Eric Roth",
     "birth_year": 1945,
     "path": "data/people/p_eric_roth.json"
+  },
+  {
+    "id": "p_eric_rouquette",
+    "name": "Éric Rouquette",
+    "birth_year": 1964,
+    "path": "data/people/p_eric_rouquette.json"
   },
   {
     "id": "p_eric_ruel",
@@ -25980,6 +26075,12 @@
     "path": "data/people/p_erin_davies.json"
   },
   {
+    "id": "p_erin_davis",
+    "name": "Erin Davis",
+    "birth_year": 1962,
+    "path": "data/people/p_erin_davis.json"
+  },
+  {
     "id": "p_erin_dean",
     "name": "Erin Dean",
     "birth_year": 1980,
@@ -26343,6 +26444,12 @@
     "name": "Erki Laur",
     "birth_year": 1976,
     "path": "data/people/p_erki_laur.json"
+  },
+  {
+    "id": "p_erki_parnoja",
+    "name": "Erki Pärnoja",
+    "birth_year": 1984,
+    "path": "data/people/p_erki_parnoja.json"
   },
   {
     "id": "p_erkin_koray",
@@ -27810,6 +27917,12 @@
     "name": "Eseoe",
     "birth_year": 1982,
     "path": "data/people/p_eseoe.json"
+  },
+  {
+    "id": "p_eser_yenenler",
+    "name": "Eser Yenenler",
+    "birth_year": 1984,
+    "path": "data/people/p_eser_yenenler.json"
   },
   {
     "id": "p_esfandiyar_gholamzadeh",
@@ -33937,6 +34050,12 @@
     "name": "Ewen Bremner",
     "birth_year": 1972,
     "path": "data/people/p_ewen_bremner.json"
+  },
+  {
+    "id": "p_ewen_glass",
+    "name": "Ewen Glass",
+    "birth_year": 1982,
+    "path": "data/people/p_ewen_glass.json"
   },
   {
     "id": "p_ewen_leslie",
