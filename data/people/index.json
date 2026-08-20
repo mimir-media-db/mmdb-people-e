@@ -8624,6 +8624,12 @@
     "path": "data/people/p_elfriede_irrall.json"
   },
   {
+    "id": "p_elfriede_jelinek",
+    "name": "Elfriede Jelinek",
+    "birth_year": 1946,
+    "path": "data/people/p_elfriede_jelinek.json"
+  },
+  {
     "id": "p_elfriede_schusseleder",
     "name": "Elfriede Schüsseleder",
     "birth_year": 1951,
@@ -11027,6 +11033,12 @@
     "name": "Eliška Bučková",
     "birth_year": 1989,
     "path": "data/people/p_eliska_buckova.json"
+  },
+  {
+    "id": "p_eliska_cilkova",
+    "name": "Eliška Cílková",
+    "birth_year": 1987,
+    "path": "data/people/p_eliska_cilkova.json"
   },
   {
     "id": "p_eliska_cross",
@@ -31631,6 +31643,12 @@
     "id": "p_eunice_chiweshe_goldstein",
     "name": "Eunice Chiweshe Goldstein",
     "path": "data/people/p_eunice_chiweshe_goldstein.json"
+  },
+  {
+    "id": "p_eunike_tanzil",
+    "name": "Eunike Tanzil",
+    "birth_year": 1997,
+    "path": "data/people/p_eunike_tanzil.json"
   },
   {
     "id": "p_eunjung_lim",
