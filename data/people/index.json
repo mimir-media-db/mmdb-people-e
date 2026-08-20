@@ -772,6 +772,12 @@
     "path": "data/people/p_ed_corbin.json"
   },
   {
+    "id": "p_ed_cortes",
+    "name": "Ed Côrtes",
+    "birth_year": 1965,
+    "path": "data/people/p_ed_cortes.json"
+  },
+  {
     "id": "p_ed_cosico",
     "name": "Ed Cosico",
     "path": "data/people/p_ed_cosico.json"
@@ -3152,6 +3158,12 @@
     "path": "data/people/p_eduard_torres.json"
   },
   {
+    "id": "p_eduard_volodarsky",
+    "name": "Eduard Volodarsky",
+    "birth_year": 1941,
+    "path": "data/people/p_eduard_volodarsky.json"
+  },
+  {
     "id": "p_eduard_zorzenoni",
     "name": "Eduard Zorzenoni",
     "path": "data/people/p_eduard_zorzenoni.json"
@@ -3343,6 +3355,12 @@
     "name": "Eduardo Galvão",
     "birth_year": 1962,
     "path": "data/people/p_eduardo_galvao.json"
+  },
+  {
+    "id": "p_eduardo_gamboa_martinez",
+    "name": "Eduardo Gamboa Martínez",
+    "birth_year": 1956,
+    "path": "data/people/p_eduardo_gamboa_martinez.json"
   },
   {
     "id": "p_eduardo_ganoza",
@@ -5280,6 +5298,12 @@
     "path": "data/people/p_ehan_bhat.json"
   },
   {
+    "id": "p_ehesuma",
+    "name": "Ehesuma",
+    "birth_year": 1973,
+    "path": "data/people/p_ehesuma.json"
+  },
+  {
     "id": "p_ehlo_huang",
     "name": "Ehlo Huang",
     "birth_year": 1977,
@@ -5542,6 +5566,12 @@
     "id": "p_eike_goreczka",
     "name": "Eike Goreczka",
     "path": "data/people/p_eike_goreczka.json"
+  },
+  {
+    "id": "p_eike_hosenfeld",
+    "name": "Eike Hosenfeld",
+    "birth_year": 1973,
+    "path": "data/people/p_eike_hosenfeld.json"
   },
   {
     "id": "p_eikei_suzuki",
@@ -7917,6 +7947,12 @@
     "name": "Elfi Mikesch",
     "birth_year": 1940,
     "path": "data/people/p_elfi_mikesch.json"
+  },
+  {
+    "id": "p_elfie_donnelly",
+    "name": "Elfie Donnelly",
+    "birth_year": 1950,
+    "path": "data/people/p_elfie_donnelly.json"
   },
   {
     "id": "p_elfina_luk",
@@ -11106,6 +11142,12 @@
     "path": "data/people/p_elizabeth_schenk.json"
   },
   {
+    "id": "p_elizabeth_schwartz",
+    "name": "Elizabeth Schwartz",
+    "birth_year": 1964,
+    "path": "data/people/p_elizabeth_schwartz.json"
+  },
+  {
     "id": "p_elizabeth_shepherd",
     "name": "Elizabeth Shepherd",
     "birth_year": 1936,
@@ -13799,6 +13841,12 @@
     "name": "Elwira Niewiera",
     "birth_year": 1975,
     "path": "data/people/p_elwira_niewiera.json"
+  },
+  {
+    "id": "p_elwood_reid",
+    "name": "Elwood Reid",
+    "birth_year": 1966,
+    "path": "data/people/p_elwood_reid.json"
   },
   {
     "id": "p_elxan_quliyev",
@@ -20153,6 +20201,12 @@
     "path": "data/people/p_enrique_berrendero.json"
   },
   {
+    "id": "p_enrique_braso",
+    "name": "Enrique Brasó",
+    "birth_year": 1947,
+    "path": "data/people/p_enrique_braso.json"
+  },
+  {
     "id": "p_enrique_buchichio",
     "name": "Enrique Buchichio",
     "birth_year": 1973,
@@ -21935,6 +21989,12 @@
     "path": "data/people/p_eric_delcourt.json"
   },
   {
+    "id": "p_eric_demarsan",
+    "name": "Éric Demarsan",
+    "birth_year": 1938,
+    "path": "data/people/p_eric_demarsan.json"
+  },
+  {
     "id": "p_eric_denis",
     "name": "Eric Denis",
     "birth_year": 1952,
@@ -23395,6 +23455,12 @@
     "path": "data/people/p_eric_vorenholt.json"
   },
   {
+    "id": "p_eric_vuillard",
+    "name": "Éric Vuillard",
+    "birth_year": 1968,
+    "path": "data/people/p_eric_vuillard.json"
+  },
+  {
     "id": "p_eric_w_williams",
     "name": "Eric W. Williams",
     "path": "data/people/p_eric_w_williams.json"
@@ -24491,6 +24557,12 @@
     "id": "p_erik_saroun",
     "name": "Erik Šaroun",
     "path": "data/people/p_erik_saroun.json"
+  },
+  {
+    "id": "p_erik_satie",
+    "name": "Erik Satie",
+    "birth_year": 1866,
+    "path": "data/people/p_erik_satie.json"
   },
   {
     "id": "p_erik_schafer",
@@ -26943,6 +27015,12 @@
     "name": "Esben Tønnesen",
     "birth_year": 1976,
     "path": "data/people/p_esben_tnnesen.json"
+  },
+  {
+    "id": "p_esbjorn_svensson",
+    "name": "Esbjörn Svensson",
+    "birth_year": 1964,
+    "path": "data/people/p_esbjorn_svensson.json"
   },
   {
     "id": "p_escha_tanihatu",
