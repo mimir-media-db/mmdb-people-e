@@ -3280,6 +3280,11 @@
     "path": "data/people/p_eduard_martsevich.json"
   },
   {
+    "id": "p_eduard_miguel_i_costal",
+    "name": "Eduard Miguel i Costal",
+    "path": "data/people/p_eduard_miguel_i_costal.json"
+  },
+  {
     "id": "p_eduard_muntada",
     "name": "Eduard Muntada",
     "path": "data/people/p_eduard_muntada.json"
@@ -5158,6 +5163,12 @@
     "name": "Eero Talvistu",
     "birth_year": 1976,
     "path": "data/people/p_eero_talvistu.json"
+  },
+  {
+    "id": "p_eero_tammi",
+    "name": "Eero Tammi",
+    "birth_year": 1982,
+    "path": "data/people/p_eero_tammi.json"
   },
   {
     "id": "p_eesha_koppikhar",
@@ -7393,6 +7404,12 @@
     "path": "data/people/p_eleanor_burke.json"
   },
   {
+    "id": "p_eleanor_catton",
+    "name": "Eleanor Catton",
+    "birth_year": 1985,
+    "path": "data/people/p_eleanor_catton.json"
+  },
+  {
     "id": "p_eleanor_columbus",
     "name": "Eleanor Columbus",
     "birth_year": 1989,
@@ -8043,6 +8060,12 @@
     "name": "Elena Spirina",
     "birth_year": 1977,
     "path": "data/people/p_elena_spirina.json"
+  },
+  {
+    "id": "p_elena_stancanelli",
+    "name": "Elena Stancanelli",
+    "birth_year": 1965,
+    "path": "data/people/p_elena_stancanelli.json"
   },
   {
     "id": "p_elena_stanisheva",
@@ -11567,6 +11590,11 @@
     "path": "data/people/p_elizabeth_martichoux.json"
   },
   {
+    "id": "p_elizabeth_martin",
+    "name": "Elizabeth Martin",
+    "path": "data/people/p_elizabeth_martin.json"
+  },
+  {
     "id": "p_elizabeth_marvel",
     "name": "Elizabeth Marvel",
     "birth_year": 1969,
@@ -13887,6 +13915,12 @@
     "name": "Elozonam",
     "birth_year": 1986,
     "path": "data/people/p_elozonam.json"
+  },
+  {
+    "id": "p_elp",
+    "name": "El-P",
+    "birth_year": 1975,
+    "path": "data/people/p_elp.json"
   },
   {
     "id": "p_elpidia_carrillo",
@@ -19706,6 +19740,12 @@
     "path": "data/people/p_emmanuelle_riviere.json"
   },
   {
+    "id": "p_emmanuelle_salasc",
+    "name": "Emmanuelle Salasc",
+    "birth_year": 1969,
+    "path": "data/people/p_emmanuelle_salasc.json"
+  },
+  {
     "id": "p_emmanuelle_schick_garcia",
     "name": "Emmanuelle Schick Garcia",
     "birth_year": 1976,
@@ -20033,6 +20073,11 @@
     "path": "data/people/p_emre_sahin.json"
   },
   {
+    "id": "p_emre_sevindik",
+    "name": "Emre Sevindik",
+    "path": "data/people/p_emre_sevindik.json"
+  },
+  {
     "id": "p_emre_yalgn",
     "name": "Emre Yalgın",
     "path": "data/people/p_emre_yalgn.json"
@@ -20251,6 +20296,12 @@
     "name": "Endi Arfian",
     "birth_year": 2001,
     "path": "data/people/p_endi_arfian.json"
+  },
+  {
+    "id": "p_endik_koeswoyo",
+    "name": "Endik Koeswoyo",
+    "birth_year": 1982,
+    "path": "data/people/p_endik_koeswoyo.json"
   },
   {
     "id": "p_endre_beleznay",
@@ -20837,6 +20888,12 @@
     "id": "p_enrico_alexander_giordano",
     "name": "Enrico Alexander Giordano",
     "path": "data/people/p_enrico_alexander_giordano.json"
+  },
+  {
+    "id": "p_enrico_audenino",
+    "name": "Enrico Audenino",
+    "birth_year": 1980,
+    "path": "data/people/p_enrico_audenino.json"
   },
   {
     "id": "p_enrico_bertolino",
@@ -24031,6 +24088,11 @@
     "path": "data/people/p_eric_naulleau.json"
   },
   {
+    "id": "p_eric_navarro",
+    "name": "Eric Navarro",
+    "path": "data/people/p_eric_navarro.json"
+  },
+  {
     "id": "p_eric_nazarian",
     "name": "Eric Nazarian",
     "birth_year": 1952,
@@ -24991,6 +25053,12 @@
     "path": "data/people/p_erica_rivera.json"
   },
   {
+    "id": "p_erica_rivinoja",
+    "name": "Erica Rivinoja",
+    "birth_year": 1999,
+    "path": "data/people/p_erica_rivinoja.json"
+  },
+  {
     "id": "p_erica_roby",
     "name": "Erica Roby",
     "birth_year": 1983,
@@ -25263,6 +25331,12 @@
     "name": "Erige Sehiri",
     "birth_year": 1982,
     "path": "data/people/p_erige_sehiri.json"
+  },
+  {
+    "id": "p_eriikka_etholenpaju",
+    "name": "Eriikka Etholén-Paju",
+    "birth_year": 1976,
+    "path": "data/people/p_eriikka_etholenpaju.json"
   },
   {
     "id": "p_erik_a_schjerven",
@@ -28231,6 +28305,12 @@
     "path": "data/people/p_erwin_keusch.json"
   },
   {
+    "id": "p_erwin_kiennast",
+    "name": "Erwin Kiennast",
+    "birth_year": 1955,
+    "path": "data/people/p_erwin_kiennast.json"
+  },
+  {
     "id": "p_erwin_kostedde",
     "name": "Erwin Kostedde",
     "birth_year": 1946,
@@ -28898,6 +28978,12 @@
     "name": "Espen Skjønberg",
     "birth_year": 1924,
     "path": "data/people/p_espen_skjnberg.json"
+  },
+  {
+    "id": "p_espen_torkildsen",
+    "name": "Espen Torkildsen",
+    "birth_year": 1972,
+    "path": "data/people/p_espen_torkildsen.json"
   },
   {
     "id": "p_esperanza_aguirre_countess_of_bornos",
@@ -31460,6 +31546,11 @@
     "path": "data/people/p_eva_eisenloeffel.json"
   },
   {
+    "id": "p_eva_eleonora_shliakhtiuk",
+    "name": "Eva Eleonora Shliakhtiuk",
+    "path": "data/people/p_eva_eleonora_shliakhtiuk.json"
+  },
+  {
     "id": "p_eva_elsnerova",
     "name": "Eva Elsnerová",
     "birth_year": 1973,
@@ -33756,6 +33847,11 @@
     "name": "Evelyn Mok",
     "birth_year": 1987,
     "path": "data/people/p_evelyn_mok.json"
+  },
+  {
+    "id": "p_evelyn_morris",
+    "name": "Evelyn Morris",
+    "path": "data/people/p_evelyn_morris.json"
   },
   {
     "id": "p_evelyn_osorio_vaccaro",
