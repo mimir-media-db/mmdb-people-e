@@ -391,6 +391,12 @@
     "path": "data/people/p_eberhard_cohrs.json"
   },
   {
+    "id": "p_eberhard_gorner",
+    "name": "Eberhard Görner",
+    "birth_year": 1944,
+    "path": "data/people/p_eberhard_gorner.json"
+  },
+  {
     "id": "p_eberhard_junkersdorf",
     "name": "Eberhard Junkersdorf",
     "birth_year": 1938,
@@ -1116,6 +1122,12 @@
     "name": "Ed Viesturs",
     "birth_year": 1959,
     "path": "data/people/p_ed_viesturs.json"
+  },
+  {
+    "id": "p_ed_volker",
+    "name": "Ed Volker",
+    "birth_year": 1948,
+    "path": "data/people/p_ed_volker.json"
   },
   {
     "id": "p_ed_warren",
@@ -2372,6 +2384,12 @@
     "path": "data/people/p_edith_massola.json"
   },
   {
+    "id": "p_edith_nesbit",
+    "name": "Edith Nesbit",
+    "birth_year": 1858,
+    "path": "data/people/p_edith_nesbit.json"
+  },
+  {
     "id": "p_edith_patrouilleau",
     "name": "Edith Patrouilleau",
     "path": "data/people/p_edith_patrouilleau.json"
@@ -3057,6 +3075,12 @@
     "path": "data/people/p_eduard_klezla.json"
   },
   {
+    "id": "p_eduard_krecmar",
+    "name": "Eduard Krečmar",
+    "birth_year": 1942,
+    "path": "data/people/p_eduard_krecmar.json"
+  },
+  {
     "id": "p_eduard_kucera",
     "name": "Eduard Kučera",
     "birth_year": 1953,
@@ -3067,6 +3091,12 @@
     "name": "Eduard Limonov",
     "birth_year": 1943,
     "path": "data/people/p_eduard_limonov.json"
+  },
+  {
+    "id": "p_eduard_marquez",
+    "name": "Eduard Márquez",
+    "birth_year": 1960,
+    "path": "data/people/p_eduard_marquez.json"
   },
   {
     "id": "p_eduard_martsevich",
@@ -3426,6 +3456,12 @@
     "path": "data/people/p_eduardo_makaroff.json"
   },
   {
+    "id": "p_eduardo_mallorqui",
+    "name": "Eduardo Mallorquí",
+    "birth_year": 1943,
+    "path": "data/people/p_eduardo_mallorqui.json"
+  },
+  {
     "id": "p_eduardo_mancini",
     "name": "Eduardo Mancini",
     "birth_year": 1950,
@@ -3472,6 +3508,12 @@
     "name": "Eduardo Mendoza de Echave",
     "birth_year": 1974,
     "path": "data/people/p_eduardo_mendoza_de_echave.json"
+  },
+  {
+    "id": "p_eduardo_mendoza_garriga",
+    "name": "Eduardo Mendoza Garriga",
+    "birth_year": 1943,
+    "path": "data/people/p_eduardo_mendoza_garriga.json"
   },
   {
     "id": "p_eduardo_meneghelli",
@@ -3777,6 +3819,12 @@
     "name": "Edvana Carvalho",
     "birth_year": 1967,
     "path": "data/people/p_edvana_carvalho.json"
+  },
+  {
+    "id": "p_edvard_grieg",
+    "name": "Edvard Grieg",
+    "birth_year": 1843,
+    "path": "data/people/p_edvard_grieg.json"
   },
   {
     "id": "p_edvard_van_t_wout",
@@ -6780,6 +6828,11 @@
     "name": "Elar Vahter",
     "birth_year": 1988,
     "path": "data/people/p_elar_vahter.json"
+  },
+  {
+    "id": "p_elard_serruto",
+    "name": "Elard Serruto",
+    "path": "data/people/p_elard_serruto.json"
   },
   {
     "id": "p_elarica_johnson",
@@ -9861,6 +9914,12 @@
     "path": "data/people/p_elisabeth_romano.json"
   },
   {
+    "id": "p_elisabeth_rynell",
+    "name": "Elisabeth Rynell",
+    "birth_year": 1954,
+    "path": "data/people/p_elisabeth_rynell.json"
+  },
+  {
     "id": "p_elisabeth_sand",
     "name": "Elisabeth Sand",
     "birth_year": 1953,
@@ -10061,6 +10120,12 @@
     "name": "Elisavet Moutafi",
     "birth_year": 1976,
     "path": "data/people/p_elisavet_moutafi.json"
+  },
+  {
+    "id": "p_elise_allen",
+    "name": "Elise Allen",
+    "birth_year": 1900,
+    "path": "data/people/p_elise_allen.json"
   },
   {
     "id": "p_elise_avellan",
@@ -12283,6 +12348,12 @@
     "path": "data/people/p_ellenor_lindgren.json"
   },
   {
+    "id": "p_ellert_driessen",
+    "name": "Ellert Driessen",
+    "birth_year": 1958,
+    "path": "data/people/p_ellert_driessen.json"
+  },
+  {
     "id": "p_ellert_ingimundarson",
     "name": "Ellert Ingimundarson",
     "birth_year": 1957,
@@ -13701,6 +13772,12 @@
     "id": "p_elvio_duvini",
     "name": "Elvio Duvini",
     "path": "data/people/p_elvio_duvini.json"
+  },
+  {
+    "id": "p_elvio_porta",
+    "name": "Elvio Porta",
+    "birth_year": 1945,
+    "path": "data/people/p_elvio_porta.json"
   },
   {
     "id": "p_elvir_ramovic",
@@ -17778,6 +17855,12 @@
     "path": "data/people/p_emma_klingenberg.json"
   },
   {
+    "id": "p_emma_knowles",
+    "name": "Emma Knowles",
+    "birth_year": 1974,
+    "path": "data/people/p_emma_knowles.json"
+  },
+  {
     "id": "p_emma_kristin",
     "name": "Emma Kristin",
     "birth_year": 2006,
@@ -20008,6 +20091,12 @@
     "name": "Enrico Coletti",
     "birth_year": 1961,
     "path": "data/people/p_enrico_coletti.json"
+  },
+  {
+    "id": "p_enrico_cremonesi",
+    "name": "Enrico Cremonesi",
+    "birth_year": 1969,
+    "path": "data/people/p_enrico_cremonesi.json"
   },
   {
     "id": "p_enrico_demurray",
@@ -22385,6 +22474,12 @@
     "path": "data/people/p_eric_gueret.json"
   },
   {
+    "id": "p_eric_guggenheim",
+    "name": "Eric Guggenheim",
+    "birth_year": 1973,
+    "path": "data/people/p_eric_guggenheim.json"
+  },
+  {
     "id": "p_eric_guirado",
     "name": "Éric Guirado",
     "birth_year": 1968,
@@ -22671,6 +22766,12 @@
     "name": "Éric Laugérias",
     "birth_year": 1963,
     "path": "data/people/p_eric_laugerias.json"
+  },
+  {
+    "id": "p_eric_laurent",
+    "name": "Éric Laurent",
+    "birth_year": 1947,
+    "path": "data/people/p_eric_laurent.json"
   },
   {
     "id": "p_eric_lavaine",
@@ -25684,6 +25785,12 @@
     "path": "data/people/p_erkan_kolcak_kostendil.json"
   },
   {
+    "id": "p_erkan_ogur",
+    "name": "Erkan Oğur",
+    "birth_year": 1954,
+    "path": "data/people/p_erkan_ogur.json"
+  },
+  {
     "id": "p_erkan_petekkaya",
     "name": "Erkan Petekkaya",
     "birth_year": 1970,
@@ -26426,6 +26533,12 @@
     "path": "data/people/p_ernst_pohn.json"
   },
   {
+    "id": "p_ernst_reijseger",
+    "name": "Ernst Reijseger",
+    "birth_year": 1954,
+    "path": "data/people/p_ernst_reijseger.json"
+  },
+  {
     "id": "p_ernst_sasse",
     "name": "Ernst Sasse",
     "birth_year": 2000,
@@ -26724,6 +26837,12 @@
     "path": "data/people/p_ersin_pertan.json"
   },
   {
+    "id": "p_erskine_caldwell",
+    "name": "Erskine Caldwell",
+    "birth_year": 1903,
+    "path": "data/people/p_erskine_caldwell.json"
+  },
+  {
     "id": "p_ersoy_guler",
     "name": "Ersoy Güler",
     "birth_year": 1973,
@@ -26949,6 +27068,12 @@
     "name": "Ery Makmur",
     "birth_year": 1984,
     "path": "data/people/p_ery_makmur.json"
+  },
+  {
+    "id": "p_eryck_abecassis",
+    "name": "Eryck Abecassis",
+    "birth_year": 1956,
+    "path": "data/people/p_eryck_abecassis.json"
   },
   {
     "id": "p_eryk_kulm",
@@ -28968,6 +29093,12 @@
     "path": "data/people/p_etienne_ollagnier.json"
   },
   {
+    "id": "p_etienne_perruchon",
+    "name": "Étienne Perruchon",
+    "birth_year": 1958,
+    "path": "data/people/p_etienne_perruchon.json"
+  },
+  {
     "id": "p_etienne_picotteamyot",
     "name": "Etienne Picotte-Amyot",
     "path": "data/people/p_etienne_picotteamyot.json"
@@ -30758,6 +30889,12 @@
     "path": "data/people/p_eva_pallares.json"
   },
   {
+    "id": "p_eva_pataki",
+    "name": "Éva Pataki",
+    "birth_year": 1954,
+    "path": "data/people/p_eva_pataki.json"
+  },
+  {
     "id": "p_eva_pavlickova",
     "name": "Eva Pavlíčková",
     "path": "data/people/p_eva_pavlickova.json"
@@ -31796,6 +31933,12 @@
     "id": "p_eve_connolly",
     "name": "Eve Connolly",
     "path": "data/people/p_eve_connolly.json"
+  },
+  {
+    "id": "p_eve_cournoyer",
+    "name": "Ève Cournoyer",
+    "birth_year": 1969,
+    "path": "data/people/p_eve_cournoyer.json"
   },
   {
     "id": "p_eve_curtis",
