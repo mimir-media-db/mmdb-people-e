@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eddie_kramer",
+  "name": "Eddie Kramer",
+  "external_ids": {
+    "wikidata": "Q644381",
+    "imdb": "nm0469497"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1942
+}
