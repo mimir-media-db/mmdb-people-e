@@ -2231,6 +2231,12 @@
     "path": "data/people/p_edgars_makens.json"
   },
   {
+    "id": "p_edgars_rubenis",
+    "name": "Edgars Rubenis",
+    "birth_year": 1982,
+    "path": "data/people/p_edgars_rubenis.json"
+  },
+  {
     "id": "p_edgars_samitis",
     "name": "Edgars Samītis",
     "birth_year": 1980,
@@ -4911,6 +4917,11 @@
     "path": "data/people/p_edwin_wendler.json"
   },
   {
+    "id": "p_edwina_exton",
+    "name": "Edwina Exton",
+    "path": "data/people/p_edwina_exton.json"
+  },
+  {
     "id": "p_edwina_findley",
     "name": "Edwina Findley",
     "birth_year": 1980,
@@ -5548,6 +5559,12 @@
     "name": "Egon Riedel",
     "birth_year": 1965,
     "path": "data/people/p_egon_riedel.json"
+  },
+  {
+    "id": "p_egon_tobias",
+    "name": "Egon Tobiáš",
+    "birth_year": 1971,
+    "path": "data/people/p_egon_tobias.json"
   },
   {
     "id": "p_egons_dombrovskis",
@@ -9261,6 +9278,12 @@
     "path": "data/people/p_elijah_wood.json"
   },
   {
+    "id": "p_elik_alvarez",
+    "name": "Elik Alvarez",
+    "birth_year": 1973,
+    "path": "data/people/p_elik_alvarez.json"
+  },
+  {
     "id": "p_elika_abdolrazzaghi",
     "name": "Elika Abdolrazzaghi",
     "birth_year": 1979,
@@ -12145,6 +12168,12 @@
     "path": "data/people/p_ella_mikkola.json"
   },
   {
+    "id": "p_ella_milchsheriff",
+    "name": "Ella Milch-Sheriff",
+    "birth_year": 1954,
+    "path": "data/people/p_ella_milchsheriff.json"
+  },
+  {
     "id": "p_ella_newton",
     "name": "Ella Newton",
     "path": "data/people/p_ella_newton.json"
@@ -12234,6 +12263,11 @@
     "name": "Ella Tiritiello",
     "birth_year": 2006,
     "path": "data/people/p_ella_tiritiello.json"
+  },
+  {
+    "id": "p_ella_van_der_woude",
+    "name": "Ella van der Woude",
+    "path": "data/people/p_ella_van_der_woude.json"
   },
   {
     "id": "p_ella_van_drumpt",
@@ -12501,6 +12535,11 @@
     "name": "Ellen Foley",
     "birth_year": 1951,
     "path": "data/people/p_ellen_foley.json"
+  },
+  {
+    "id": "p_ellen_furman",
+    "name": "Ellen Furman",
+    "path": "data/people/p_ellen_furman.json"
   },
   {
     "id": "p_ellen_geer",
@@ -14451,6 +14490,12 @@
     "name": "Elxan Quliyev",
     "birth_year": 1952,
     "path": "data/people/p_elxan_quliyev.json"
+  },
+  {
+    "id": "p_ely_buendia",
+    "name": "Ely Buendia",
+    "birth_year": 1970,
+    "path": "data/people/p_ely_buendia.json"
   },
   {
     "id": "p_ely_dagher",
@@ -16581,6 +16626,12 @@
     "path": "data/people/p_emilie_freche.json"
   },
   {
+    "id": "p_emilie_gassin",
+    "name": "Emilie Gassin",
+    "birth_year": 1988,
+    "path": "data/people/p_emilie_gassin.json"
+  },
+  {
     "id": "p_emilie_gavoiskahn",
     "name": "Émilie Gavois-Kahn",
     "birth_year": 1978,
@@ -17883,6 +17934,12 @@
     "name": "Emir Hadžihafizbegović",
     "birth_year": 1961,
     "path": "data/people/p_emir_hadzihafizbegovic.json"
+  },
+  {
+    "id": "p_emir_islay",
+    "name": "Emir Işılay",
+    "birth_year": 1900,
+    "path": "data/people/p_emir_islay.json"
   },
   {
     "id": "p_emir_kapetanovic",
@@ -21657,6 +21714,12 @@
     "path": "data/people/p_ephraim_sykes.json"
   },
   {
+    "id": "p_ephrem_luchinger",
+    "name": "Ephrem Lüchinger",
+    "birth_year": 1974,
+    "path": "data/people/p_ephrem_luchinger.json"
+  },
+  {
     "id": "p_ephy_pae",
     "name": "Ephy Pae",
     "birth_year": 1991,
@@ -21767,6 +21830,12 @@
     "name": "Eran Riklis",
     "birth_year": 1954,
     "path": "data/people/p_eran_riklis.json"
+  },
+  {
+    "id": "p_eran_weitz",
+    "name": "Eran Weitz",
+    "birth_year": 1970,
+    "path": "data/people/p_eran_weitz.json"
   },
   {
     "id": "p_eran_zaracovitz",
@@ -23601,6 +23670,11 @@
     "path": "data/people/p_eric_liebman.json"
   },
   {
+    "id": "p_eric_lin",
+    "name": "Eric Lin",
+    "path": "data/people/p_eric_lin.json"
+  },
+  {
     "id": "p_eric_lindros",
     "name": "Eric Lindros",
     "birth_year": 1973,
@@ -24956,6 +25030,11 @@
     "path": "data/people/p_erick_avari.json"
   },
   {
+    "id": "p_erick_del_aguila",
+    "name": "Erick Del Aguila",
+    "path": "data/people/p_erick_del_aguila.json"
+  },
+  {
     "id": "p_erick_deshors",
     "name": "Erick Deshors",
     "birth_year": 1952,
@@ -26255,6 +26334,12 @@
     "path": "data/people/p_eriko_watanabe.json"
   },
   {
+    "id": "p_eriks_esenvalds",
+    "name": "Ēriks Ešenvalds",
+    "birth_year": 1977,
+    "path": "data/people/p_eriks_esenvalds.json"
+  },
+  {
     "id": "p_erin",
     "name": "Erin",
     "birth_year": 1988,
@@ -26386,6 +26471,12 @@
     "name": "Erin Dean",
     "birth_year": 1980,
     "path": "data/people/p_erin_dean.json"
+  },
+  {
+    "id": "p_erin_dignam",
+    "name": "Erin Dignam",
+    "birth_year": 1955,
+    "path": "data/people/p_erin_dignam.json"
   },
   {
     "id": "p_erin_dilly",
@@ -31468,6 +31559,11 @@
     "path": "data/people/p_eva_jasanovska.json"
   },
   {
+    "id": "p_eva_javurkova",
+    "name": "Eva Javůrková",
+    "path": "data/people/p_eva_javurkova.json"
+  },
+  {
     "id": "p_eva_jenickova",
     "name": "Eva Jeníčková",
     "birth_year": 1964,
@@ -32897,6 +32993,11 @@
     "name": "Evan Williams",
     "birth_year": 1985,
     "path": "data/people/p_evan_williams.json"
+  },
+  {
+    "id": "p_evan_wise",
+    "name": "Evan Wise",
+    "path": "data/people/p_evan_wise.json"
   },
   {
     "id": "p_evander_holyfield",
