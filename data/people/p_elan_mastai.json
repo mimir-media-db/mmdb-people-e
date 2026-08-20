@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elan_mastai",
+  "name": "Elan Mastai",
+  "external_ids": {
+    "wikidata": "Q22279092",
+    "imdb": "nm0997459"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}
