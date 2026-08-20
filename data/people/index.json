@@ -2207,6 +2207,12 @@
     "path": "data/people/p_edgars_jaunups.json"
   },
   {
+    "id": "p_edgars_makens",
+    "name": "Edgars Mākens",
+    "birth_year": 1977,
+    "path": "data/people/p_edgars_makens.json"
+  },
+  {
     "id": "p_edgars_samitis",
     "name": "Edgars Samītis",
     "birth_year": 1980,
@@ -3447,6 +3453,12 @@
     "path": "data/people/p_eduardo_crespo.json"
   },
   {
+    "id": "p_eduardo_cruz",
+    "name": "Eduardo Cruz",
+    "birth_year": 1985,
+    "path": "data/people/p_eduardo_cruz.json"
+  },
+  {
     "id": "p_eduardo_cubillo",
     "name": "Eduardo Cubillo",
     "path": "data/people/p_eduardo_cubillo.json"
@@ -3689,6 +3701,11 @@
     "path": "data/people/p_eduardo_moises_escribano_solera.json"
   },
   {
+    "id": "p_eduardo_molinero_bustos",
+    "name": "Eduardo Molinero Bustos",
+    "path": "data/people/p_eduardo_molinero_bustos.json"
+  },
+  {
     "id": "p_eduardo_montesbradley",
     "name": "Eduardo Montes-Bradley",
     "birth_year": 1960,
@@ -3880,6 +3897,12 @@
     "name": "Eduardo Tornaghi",
     "birth_year": 1952,
     "path": "data/people/p_eduardo_tornaghi.json"
+  },
+  {
+    "id": "p_eduardo_torresdulce_lifante",
+    "name": "Eduardo Torres-Dulce Lifante",
+    "birth_year": 1950,
+    "path": "data/people/p_eduardo_torresdulce_lifante.json"
   },
   {
     "id": "p_eduardo_valdarnini",
@@ -4548,6 +4571,12 @@
     "id": "p_edward_t_mcdougal",
     "name": "Edward T. McDougal",
     "path": "data/people/p_edward_t_mcdougal.json"
+  },
+  {
+    "id": "p_edward_tang",
+    "name": "Edward Tang",
+    "birth_year": 1945,
+    "path": "data/people/p_edward_tang.json"
   },
   {
     "id": "p_edward_tarletski",
@@ -5422,6 +5451,12 @@
     "id": "p_ego_nwosu",
     "name": "Ego Nwosu",
     "path": "data/people/p_ego_nwosu.json"
+  },
+  {
+    "id": "p_ego_plum",
+    "name": "Ego Plum",
+    "birth_year": 1975,
+    "path": "data/people/p_ego_plum.json"
   },
   {
     "id": "p_egoitz_lasa",
@@ -14224,6 +14259,12 @@
     "path": "data/people/p_elvira_roca_barea.json"
   },
   {
+    "id": "p_elvis_bosnjak",
+    "name": "Elvis Bošnjak",
+    "birth_year": 1970,
+    "path": "data/people/p_elvis_bosnjak.json"
+  },
+  {
     "id": "p_elvis_clausen",
     "name": "Elvis Clausen",
     "birth_year": 1987,
@@ -15420,6 +15461,12 @@
     "path": "data/people/p_emicida.json"
   },
   {
+    "id": "p_emidio_clementi",
+    "name": "Emidio Clementi",
+    "birth_year": 1967,
+    "path": "data/people/p_emidio_clementi.json"
+  },
+  {
     "id": "p_emidio_greco",
     "name": "Emidio Greco",
     "birth_year": 1938,
@@ -15511,6 +15558,12 @@
     "name": "Emil Braginsky",
     "birth_year": 1921,
     "path": "data/people/p_emil_braginsky.json"
+  },
+  {
+    "id": "p_emil_brandqvist",
+    "name": "Emil Brandqvist",
+    "birth_year": 1980,
+    "path": "data/people/p_emil_brandqvist.json"
   },
   {
     "id": "p_emil_brulin",
@@ -20493,6 +20546,12 @@
     "path": "data/people/p_enrico_brignano.json"
   },
   {
+    "id": "p_enrico_brizzi",
+    "name": "Enrico Brizzi",
+    "birth_year": 1974,
+    "path": "data/people/p_enrico_brizzi.json"
+  },
+  {
     "id": "p_enrico_c_santos",
     "name": "Enrico C. Santos",
     "path": "data/people/p_enrico_c_santos.json"
@@ -21322,6 +21381,12 @@
     "path": "data/people/p_enzo_paci.json"
   },
   {
+    "id": "p_enzo_pietropaoli",
+    "name": "Enzo Pietropaoli",
+    "birth_year": 1955,
+    "path": "data/people/p_enzo_pietropaoli.json"
+  },
+  {
     "id": "p_enzo_robutti",
     "name": "Enzo Robutti",
     "birth_year": 1933,
@@ -21625,6 +21690,12 @@
     "name": "Eray Özbal",
     "birth_year": 1956,
     "path": "data/people/p_eray_ozbal.json"
+  },
+  {
+    "id": "p_erazem_pintar",
+    "name": "Erazem Pintar",
+    "birth_year": 1967,
+    "path": "data/people/p_erazem_pintar.json"
   },
   {
     "id": "p_erbi_ago",
@@ -25550,6 +25621,11 @@
     "id": "p_erik_werth",
     "name": "Erik Werth",
     "path": "data/people/p_erik_werth.json"
+  },
+  {
+    "id": "p_erik_westmillette",
+    "name": "Érik West-Millette",
+    "path": "data/people/p_erik_westmillette.json"
   },
   {
     "id": "p_erik_white",
@@ -32378,6 +32454,12 @@
     "name": "Evan Evans",
     "birth_year": 1975,
     "path": "data/people/p_evan_evans.json"
+  },
+  {
+    "id": "p_evan_frankfort",
+    "name": "Evan Frankfort",
+    "birth_year": 1970,
+    "path": "data/people/p_evan_frankfort.json"
   },
   {
     "id": "p_evan_freed",
