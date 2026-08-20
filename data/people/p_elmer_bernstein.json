@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_elmer_bernstein",
+  "name": "Elmer Bernstein",
+  "external_ids": {
+    "wikidata": "Q111436",
+    "imdb": "nm0000930"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1922,
+  "death_year": 2004
+}
