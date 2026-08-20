@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_enik",
+  "name": "Enik",
+  "external_ids": {
+    "wikidata": "Q100712",
+    "imdb": "nm5470293"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}
