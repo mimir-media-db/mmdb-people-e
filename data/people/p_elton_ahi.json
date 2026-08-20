@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elton_ahi",
+  "name": "Elton Ahi",
+  "external_ids": {
+    "wikidata": "Q5367834",
+    "imdb": "nm0013941"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
