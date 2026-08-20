@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_eric_holder",
+  "name": "Eric Holder",
+  "external_ids": {
+    "wikidata": "Q3591180",
+    "imdb": "nm3110976"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960,
+  "death_year": 2019
+}

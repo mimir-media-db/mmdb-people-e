@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edgar_allan_poe",
+  "name": "Edgar Allan Poe",
+  "external_ids": {
+    "wikidata": "Q16867",
+    "imdb": "nm0000590"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1809,
+  "death_year": 1849
+}
