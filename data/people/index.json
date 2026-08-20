@@ -298,6 +298,12 @@
     "path": "data/people/p_ebba_dahlqvist.json"
   },
   {
+    "id": "p_ebba_forsberg",
+    "name": "Ebba Forsberg",
+    "birth_year": 1964,
+    "path": "data/people/p_ebba_forsberg.json"
+  },
+  {
     "id": "p_ebba_hultkvist",
     "name": "Ebba Hultkvist",
     "birth_year": 1983,
@@ -640,6 +646,12 @@
     "name": "Eckhard Preuß",
     "birth_year": 1961,
     "path": "data/people/p_eckhard_preu.json"
+  },
+  {
+    "id": "p_eckhard_theophil",
+    "name": "Eckhard Theophil",
+    "birth_year": 1943,
+    "path": "data/people/p_eckhard_theophil.json"
   },
   {
     "id": "p_eco_andriolo_ranzi",
@@ -1116,6 +1128,11 @@
     "name": "Ed Trucco",
     "birth_year": 1963,
     "path": "data/people/p_ed_trucco.json"
+  },
+  {
+    "id": "p_ed_vanderweyden",
+    "name": "Ed Vanderweyden",
+    "path": "data/people/p_ed_vanderweyden.json"
   },
   {
     "id": "p_ed_viesturs",
@@ -2798,6 +2815,12 @@
     "path": "data/people/p_edoardo_winspeare.json"
   },
   {
+    "id": "p_edogawa_ranpo",
+    "name": "Edogawa Ranpo",
+    "birth_year": 1894,
+    "path": "data/people/p_edogawa_ranpo.json"
+  },
+  {
     "id": "p_edon_rizvanolli",
     "name": "Edon Rizvanolli",
     "birth_year": 1971,
@@ -3248,6 +3271,12 @@
     "name": "Eduardo Barril",
     "birth_year": 1941,
     "path": "data/people/p_eduardo_barril.json"
+  },
+  {
+    "id": "p_eduardo_berti",
+    "name": "Eduardo Berti",
+    "birth_year": 1963,
+    "path": "data/people/p_eduardo_berti.json"
   },
   {
     "id": "p_eduardo_blanco",
@@ -4640,6 +4669,12 @@
     "path": "data/people/p_edwin_smulders.json"
   },
   {
+    "id": "p_edwin_torres",
+    "name": "Edwin Torres",
+    "birth_year": 1931,
+    "path": "data/people/p_edwin_torres.json"
+  },
+  {
     "id": "p_edwin_van_der_sar",
     "name": "Edwin van der Sar",
     "birth_year": 1970,
@@ -5562,6 +5597,12 @@
     "name": "Eiji Funakoshi",
     "birth_year": 1923,
     "path": "data/people/p_eiji_funakoshi.json"
+  },
+  {
+    "id": "p_eiji_kawamura",
+    "name": "Eiji Kawamura",
+    "birth_year": 1946,
+    "path": "data/people/p_eiji_kawamura.json"
   },
   {
     "id": "p_eiji_kotoge",
@@ -6597,6 +6638,12 @@
     "name": "El Sevilla",
     "birth_year": 1970,
     "path": "data/people/p_el_sevilla.json"
+  },
+  {
+    "id": "p_el_sr_rojo",
+    "name": "El Sr. Rojo",
+    "birth_year": 1975,
+    "path": "data/people/p_el_sr_rojo.json"
   },
   {
     "id": "p_ela_alyamac",
@@ -11379,6 +11426,12 @@
     "path": "data/people/p_elizabeth_yoffe.json"
   },
   {
+    "id": "p_elizabeth_young",
+    "name": "Elizabeth Young",
+    "birth_year": 1950,
+    "path": "data/people/p_elizabeth_young.json"
+  },
+  {
     "id": "p_elizabeth_yu",
     "name": "Elizabeth Yu",
     "birth_year": 2002,
@@ -11497,6 +11550,12 @@
     "name": "Elke Ried",
     "birth_year": 1952,
     "path": "data/people/p_elke_ried.json"
+  },
+  {
+    "id": "p_elke_rossler",
+    "name": "Elke Rössler",
+    "birth_year": 1968,
+    "path": "data/people/p_elke_rossler.json"
   },
   {
     "id": "p_elke_sommer",
@@ -13702,6 +13761,12 @@
     "name": "Elten Ting",
     "birth_year": 1954,
     "path": "data/people/p_elten_ting.json"
+  },
+  {
+    "id": "p_elton_ahi",
+    "name": "Elton Ahi",
+    "birth_year": 1957,
+    "path": "data/people/p_elton_ahi.json"
   },
   {
     "id": "p_elton_brand",
@@ -16211,6 +16276,12 @@
     "path": "data/people/p_emilie_serri.json"
   },
   {
+    "id": "p_emilie_simon",
+    "name": "Émilie Simon",
+    "birth_year": 1978,
+    "path": "data/people/p_emilie_simon.json"
+  },
+  {
     "id": "p_emilie_stgermain",
     "name": "Emilie St-Germain",
     "path": "data/people/p_emilie_stgermain.json"
@@ -16888,6 +16959,12 @@
     "name": "Emily Kai Bock",
     "birth_year": 1984,
     "path": "data/people/p_emily_kai_bock.json"
+  },
+  {
+    "id": "p_emily_kapnek",
+    "name": "Emily Kapnek",
+    "birth_year": 1969,
+    "path": "data/people/p_emily_kapnek.json"
   },
   {
     "id": "p_emily_kassie",
@@ -19503,6 +19580,12 @@
     "path": "data/people/p_endre_hules.json"
   },
   {
+    "id": "p_endre_lund_eriksen",
+    "name": "Endre Lund Eriksen",
+    "birth_year": 1977,
+    "path": "data/people/p_endre_lund_eriksen.json"
+  },
+  {
     "id": "p_endre_midtstigen",
     "name": "Endre Midtstigen",
     "birth_year": 1986,
@@ -19935,6 +20018,12 @@
     "name": "Enock Mwandila Poulsen",
     "birth_year": 1992,
     "path": "data/people/p_enock_mwandila_poulsen.json"
+  },
+  {
+    "id": "p_enri_lolashvili",
+    "name": "Enri Lolashvili",
+    "birth_year": 1947,
+    "path": "data/people/p_enri_lolashvili.json"
   },
   {
     "id": "p_enric_alberich",
@@ -24000,6 +24089,12 @@
     "path": "data/people/p_erich_bergen.json"
   },
   {
+    "id": "p_erich_buchebner",
+    "name": "Erich Buchebner",
+    "birth_year": 1954,
+    "path": "data/people/p_erich_buchebner.json"
+  },
+  {
     "id": "p_erich_dunskus",
     "name": "Erich Dunskus",
     "birth_year": 1890,
@@ -24593,6 +24688,12 @@
     "id": "p_erik_mauck",
     "name": "Erik Mauck",
     "path": "data/people/p_erik_mauck.json"
+  },
+  {
+    "id": "p_erik_moora",
+    "name": "Erik Moora",
+    "birth_year": 1979,
+    "path": "data/people/p_erik_moora.json"
   },
   {
     "id": "p_erik_morales",
@@ -26240,6 +26341,11 @@
     "path": "data/people/p_ernesto_chao.json"
   },
   {
+    "id": "p_ernesto_chao_galvan",
+    "name": "Ernesto Chao Galván",
+    "path": "data/people/p_ernesto_chao_galvan.json"
+  },
+  {
     "id": "p_ernesto_claudio",
     "name": "Ernesto Claudio",
     "birth_year": 1900,
@@ -26912,6 +27018,12 @@
     "name": "Ervic Vijandre",
     "birth_year": 1986,
     "path": "data/people/p_ervic_vijandre.json"
+  },
+  {
+    "id": "p_ervin_lazar",
+    "name": "Ervin Lázár",
+    "birth_year": 1936,
+    "path": "data/people/p_ervin_lazar.json"
   },
   {
     "id": "p_ervin_nagy",
