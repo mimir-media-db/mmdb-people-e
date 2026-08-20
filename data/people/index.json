@@ -293,6 +293,12 @@
     "path": "data/people/p_eb_lottimer.json"
   },
   {
+    "id": "p_eban_schletter",
+    "name": "Eban Schletter",
+    "birth_year": 1975,
+    "path": "data/people/p_eban_schletter.json"
+  },
+  {
     "id": "p_ebba_dahlqvist",
     "name": "Ebba Dahlqvist",
     "path": "data/people/p_ebba_dahlqvist.json"
@@ -2182,6 +2188,11 @@
     "path": "data/people/p_edi_gathegi.json"
   },
   {
+    "id": "p_edi_muzina",
+    "name": "Edi Mužina",
+    "path": "data/people/p_edi_muzina.json"
+  },
+  {
     "id": "p_edi_patterson",
     "name": "Edi Patterson",
     "birth_year": 1972,
@@ -2527,6 +2538,12 @@
     "name": "Edmond Vullioud",
     "birth_year": 1956,
     "path": "data/people/p_edmond_vullioud.json"
+  },
+  {
+    "id": "p_edmond_wong",
+    "name": "Edmond Wong",
+    "birth_year": 1978,
+    "path": "data/people/p_edmond_wong.json"
   },
   {
     "id": "p_edmond_yuen",
@@ -2995,6 +3012,12 @@
     "id": "p_eduadr_martak",
     "name": "Eduadr Marťák",
     "path": "data/people/p_eduadr_martak.json"
+  },
+  {
+    "id": "p_eduard_akopov",
+    "name": "Eduard Akopov",
+    "birth_year": 1945,
+    "path": "data/people/p_eduard_akopov.json"
   },
   {
     "id": "p_eduard_artemyev",
@@ -4175,6 +4198,12 @@
     "name": "Edward James Olmos",
     "birth_year": 1947,
     "path": "data/people/p_edward_james_olmos.json"
+  },
+  {
+    "id": "p_edward_jayakody",
+    "name": "Edward Jayakody",
+    "birth_year": 1952,
+    "path": "data/people/p_edward_jayakody.json"
   },
   {
     "id": "p_edward_jeffries",
@@ -12255,6 +12284,12 @@
     "path": "data/people/p_ellen_mattsson.json"
   },
   {
+    "id": "p_ellen_mcilwaine",
+    "name": "Ellen McIlwaine",
+    "birth_year": 1945,
+    "path": "data/people/p_ellen_mcilwaine.json"
+  },
+  {
     "id": "p_ellen_mclain",
     "name": "Ellen McLain",
     "birth_year": 1952,
@@ -13113,6 +13148,12 @@
     "id": "p_elo_elmers",
     "name": "Elo Elmers",
     "path": "data/people/p_elo_elmers.json"
+  },
+  {
+    "id": "p_elo_jusic",
+    "name": "Đelo Jusić",
+    "birth_year": 1939,
+    "path": "data/people/p_elo_jusic.json"
   },
   {
     "id": "p_elo_selirand",
@@ -15402,6 +15443,12 @@
     "name": "Emil Lystvedt Berntsen",
     "birth_year": 1990,
     "path": "data/people/p_emil_lystvedt_berntsen.json"
+  },
+  {
+    "id": "p_emil_martonffy",
+    "name": "Emil Martonffy",
+    "birth_year": 1904,
+    "path": "data/people/p_emil_martonffy.json"
   },
   {
     "id": "p_emil_marwa",
@@ -19932,6 +19979,12 @@
     "path": "data/people/p_ennio_fantastichini.json"
   },
   {
+    "id": "p_ennio_flaiano",
+    "name": "Ennio Flaiano",
+    "birth_year": 1910,
+    "path": "data/people/p_ennio_flaiano.json"
+  },
+  {
     "id": "p_ennio_girolami",
     "name": "Ennio Girolami",
     "birth_year": 1935,
@@ -21321,6 +21374,12 @@
     "path": "data/people/p_erdem_bileg.json"
   },
   {
+    "id": "p_erdem_helvacoglu",
+    "name": "Erdem Helvacıoğlu",
+    "birth_year": 1975,
+    "path": "data/people/p_erdem_helvacoglu.json"
+  },
+  {
     "id": "p_erdem_murat_celikler",
     "name": "Erdem Murat Çelikler",
     "path": "data/people/p_erdem_murat_celikler.json"
@@ -22671,6 +22730,12 @@
     "path": "data/people/p_eric_james_gravolin.json"
   },
   {
+    "id": "p_eric_jay",
+    "name": "Eric Jay",
+    "birth_year": 1907,
+    "path": "data/people/p_eric_jay.json"
+  },
+  {
     "id": "p_eric_jehelmann",
     "name": "Éric Jehelmann",
     "birth_year": 1974,
@@ -22892,6 +22957,12 @@
     "path": "data/people/p_eric_leiser.json"
   },
   {
+    "id": "p_eric_levi",
+    "name": "Eric Lévi",
+    "birth_year": 1955,
+    "path": "data/people/p_eric_levi.json"
+  },
+  {
     "id": "p_eric_li",
     "name": "Eric Li",
     "birth_year": 1976,
@@ -22907,6 +22978,12 @@
     "name": "Eric Lindros",
     "birth_year": 1973,
     "path": "data/people/p_eric_lindros.json"
+  },
+  {
+    "id": "p_eric_lindsay",
+    "name": "Eric Lindsay",
+    "birth_year": 1980,
+    "path": "data/people/p_eric_lindsay.json"
   },
   {
     "id": "p_eric_lively",
@@ -27182,6 +27259,11 @@
     "path": "data/people/p_ery_makmur.json"
   },
   {
+    "id": "p_ery_sofid",
+    "name": "Ery Sofid",
+    "path": "data/people/p_ery_sofid.json"
+  },
+  {
     "id": "p_eryck_abecassis",
     "name": "Eryck Abecassis",
     "birth_year": 1956,
@@ -28837,6 +28919,12 @@
     "id": "p_ethan_bresnick",
     "name": "Ethan Bresnick",
     "path": "data/people/p_ethan_bresnick.json"
+  },
+  {
+    "id": "p_ethan_canin",
+    "name": "Ethan Canin",
+    "birth_year": 1960,
+    "path": "data/people/p_ethan_canin.json"
   },
   {
     "id": "p_ethan_coen",
