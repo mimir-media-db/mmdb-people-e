@@ -3614,6 +3614,11 @@
     "path": "data/people/p_eduardo_h_garza.json"
   },
   {
+    "id": "p_eduardo_henriquez",
+    "name": "Eduardo Henríquez",
+    "path": "data/people/p_eduardo_henriquez.json"
+  },
+  {
     "id": "p_eduardo_iacono",
     "name": "Eduardo Iacono",
     "path": "data/people/p_eduardo_iacono.json"
@@ -4259,6 +4264,12 @@
     "id": "p_edward_edwards",
     "name": "Edward Edwards",
     "path": "data/people/p_edward_edwards.json"
+  },
+  {
+    "id": "p_edward_elgar",
+    "name": "Edward Elgar",
+    "birth_year": 1857,
+    "path": "data/people/p_edward_elgar.json"
   },
   {
     "id": "p_edward_ellis",
@@ -16066,6 +16077,12 @@
     "path": "data/people/p_emile_gladstone.json"
   },
   {
+    "id": "p_emile_haynie",
+    "name": "Emile Haynie",
+    "birth_year": 1980,
+    "path": "data/people/p_emile_haynie.json"
+  },
+  {
     "id": "p_emile_hertling_peronard",
     "name": "Emile Hertling Peronard",
     "birth_year": 1978,
@@ -17150,6 +17167,12 @@
     "name": "Emilram Cossío",
     "birth_year": 1981,
     "path": "data/people/p_emilram_cossio.json"
+  },
+  {
+    "id": "p_emils_zilberts",
+    "name": "Emīls Zilberts",
+    "birth_year": 1980,
+    "path": "data/people/p_emils_zilberts.json"
   },
   {
     "id": "p_emilse_roldan",
@@ -18435,6 +18458,12 @@
     "path": "data/people/p_emma_ishta.json"
   },
   {
+    "id": "p_emma_jensen",
+    "name": "Emma Jensen",
+    "birth_year": 1977,
+    "path": "data/people/p_emma_jensen.json"
+  },
+  {
     "id": "p_emma_josten",
     "name": "Emma Josten",
     "path": "data/people/p_emma_josten.json"
@@ -19643,6 +19672,12 @@
     "id": "p_emmett_callinan",
     "name": "Emmett Callinan",
     "path": "data/people/p_emmett_callinan.json"
+  },
+  {
+    "id": "p_emmett_hughes",
+    "name": "Emmett Hughes",
+    "birth_year": 1987,
+    "path": "data/people/p_emmett_hughes.json"
   },
   {
     "id": "p_emmett_j_scanlan",
@@ -21646,6 +21681,11 @@
     "name": "Enzy Storia",
     "birth_year": 1992,
     "path": "data/people/p_enzy_storia.json"
+  },
+  {
+    "id": "p_eoghan_mac_giolla_bhride",
+    "name": "Eoghan Mac Giolla Bhríde",
+    "path": "data/people/p_eoghan_mac_giolla_bhride.json"
   },
   {
     "id": "p_eoin_colfer",
@@ -23998,6 +24038,12 @@
     "path": "data/people/p_eric_pauwels.json"
   },
   {
+    "id": "p_eric_pearson",
+    "name": "Eric Pearson",
+    "birth_year": 1979,
+    "path": "data/people/p_eric_pearson.json"
+  },
+  {
     "id": "p_eric_pennycoff",
     "name": "Eric Pennycoff",
     "path": "data/people/p_eric_pennycoff.json"
@@ -24074,6 +24120,12 @@
     "id": "p_eric_radomski",
     "name": "Eric Radomski",
     "path": "data/people/p_eric_radomski.json"
+  },
+  {
+    "id": "p_eric_ramos",
+    "name": "Éric Ramos",
+    "birth_year": 1987,
+    "path": "data/people/p_eric_ramos.json"
   },
   {
     "id": "p_eric_raynaud",
@@ -25763,6 +25815,12 @@
     "name": "Erik Smith-Meyer",
     "birth_year": 1965,
     "path": "data/people/p_erik_smithmeyer.json"
+  },
+  {
+    "id": "p_erik_sommers",
+    "name": "Erik Sommers",
+    "birth_year": 1976,
+    "path": "data/people/p_erik_sommers.json"
   },
   {
     "id": "p_erik_stappenbeck",
@@ -28659,6 +28717,11 @@
     "path": "data/people/p_espen_eckbo.json"
   },
   {
+    "id": "p_espen_enger",
+    "name": "Espen Enger",
+    "path": "data/people/p_espen_enger.json"
+  },
+  {
     "id": "p_espen_fiveland",
     "name": "Espen Fiveland",
     "birth_year": 1974,
@@ -29716,6 +29779,11 @@
     "name": "Eszter Hollósi",
     "birth_year": 1981,
     "path": "data/people/p_eszter_hollosi.json"
+  },
+  {
+    "id": "p_eszter_horvath",
+    "name": "Eszter Horváth",
+    "path": "data/people/p_eszter_horvath.json"
   },
   {
     "id": "p_eszter_nagykalozy",
@@ -32552,6 +32620,12 @@
     "path": "data/people/p_eva_wong.json"
   },
   {
+    "id": "p_eva_zahn",
+    "name": "Eva Zahn",
+    "birth_year": 1959,
+    "path": "data/people/p_eva_zahn.json"
+  },
+  {
     "id": "p_eva_zanen",
     "name": "Eva Zanen",
     "path": "data/people/p_eva_zanen.json"
@@ -34111,6 +34185,12 @@
     "name": "Evin Ahmad",
     "birth_year": 1990,
     "path": "data/people/p_evin_ahmad.json"
+  },
+  {
+    "id": "p_evita_twardzik",
+    "name": "Evita Twardzik",
+    "birth_year": 1976,
+    "path": "data/people/p_evita_twardzik.json"
   },
   {
     "id": "p_evklid_kyurdzidis",
