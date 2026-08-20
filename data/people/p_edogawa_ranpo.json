@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edogawa_ranpo",
+  "name": "Edogawa Ranpo",
+  "external_ids": {
+    "wikidata": "Q347412",
+    "imdb": "nm0708835"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1894,
+  "death_year": 1965
+}
