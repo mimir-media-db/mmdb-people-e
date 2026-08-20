@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_elp",
+  "name": "El-P",
+  "external_ids": {
+    "wikidata": "Q1275039",
+    "imdb": "nm1474803"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1975
+}
