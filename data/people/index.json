@@ -2859,6 +2859,11 @@
     "path": "data/people/p_edoardo_ballerini.json"
   },
   {
+    "id": "p_edoardo_bechis",
+    "name": "Edoardo Bechis",
+    "path": "data/people/p_edoardo_bechis.json"
+  },
+  {
     "id": "p_edoardo_bennato",
     "name": "Edoardo Bennato",
     "birth_year": 1946,
@@ -6608,6 +6613,12 @@
     "path": "data/people/p_eivind_sander.json"
   },
   {
+    "id": "p_eivr_palsdottir",
+    "name": "Eivør Pálsdóttir",
+    "birth_year": 1983,
+    "path": "data/people/p_eivr_palsdottir.json"
+  },
+  {
     "id": "p_eiza_gonzalez",
     "name": "Eiza Gonzalez",
     "birth_year": 1990,
@@ -7499,6 +7510,12 @@
     "id": "p_eleanor_nabwiso",
     "name": "Eleanor Nabwiso",
     "path": "data/people/p_eleanor_nabwiso.json"
+  },
+  {
+    "id": "p_eleanor_sela",
+    "name": "Eleanor Sela",
+    "birth_year": 1974,
+    "path": "data/people/p_eleanor_sela.json"
   },
   {
     "id": "p_eleanor_sharpe",
@@ -10901,6 +10918,12 @@
     "path": "data/people/p_elisheva_weil.json"
   },
   {
+    "id": "p_elisio_lopes_jr",
+    "name": "Elísio Lopes Jr.",
+    "birth_year": 1975,
+    "path": "data/people/p_elisio_lopes_jr.json"
+  },
+  {
     "id": "p_eliska_balzerova",
     "name": "Eliška Balzerová",
     "birth_year": 1949,
@@ -12559,6 +12582,11 @@
     "name": "Elle McKinnon",
     "birth_year": 2006,
     "path": "data/people/p_elle_mckinnon.json"
+  },
+  {
+    "id": "p_elle_smith",
+    "name": "Elle Smith",
+    "path": "data/people/p_elle_smith.json"
   },
   {
     "id": "p_elle_sofe_sara",
@@ -15058,6 +15086,12 @@
     "path": "data/people/p_emadeldin_elsayed.json"
   },
   {
+    "id": "p_emahoy_tseguemaryam_guebrou",
+    "name": "Emahoy Tsegué-Maryam Guèbrou",
+    "birth_year": 1923,
+    "path": "data/people/p_emahoy_tseguemaryam_guebrou.json"
+  },
+  {
     "id": "p_emamode_edosio",
     "name": "Emamode Edosio",
     "birth_year": 1989,
@@ -15138,6 +15172,12 @@
     "name": "Emanuel Caserio",
     "birth_year": 1987,
     "path": "data/people/p_emanuel_caserio.json"
+  },
+  {
+    "id": "p_emanuel_diez",
+    "name": "Emanuel Diez",
+    "birth_year": 1919,
+    "path": "data/people/p_emanuel_diez.json"
   },
   {
     "id": "p_emanuel_fellmer",
@@ -16335,6 +16375,12 @@
     "path": "data/people/p_emile_sherman.json"
   },
   {
+    "id": "p_emile_sornin",
+    "name": "Émile Sornin",
+    "birth_year": 1984,
+    "path": "data/people/p_emile_sornin.json"
+  },
+  {
     "id": "p_emile_van_rouveroy_van_nieuwaal",
     "name": "Emile van Rouveroy van Nieuwaal",
     "birth_year": 1939,
@@ -17468,6 +17514,12 @@
     "path": "data/people/p_emily_barker.json"
   },
   {
+    "id": "p_emily_bear",
+    "name": "Emily Bear",
+    "birth_year": 2001,
+    "path": "data/people/p_emily_bear.json"
+  },
+  {
     "id": "p_emily_beecham",
     "name": "Emily Beecham",
     "birth_year": 1984,
@@ -17650,6 +17702,11 @@
     "id": "p_emily_hall",
     "name": "Emily Hall",
     "path": "data/people/p_emily_hall.json"
+  },
+  {
+    "id": "p_emily_halpern",
+    "name": "Emily Halpern",
+    "path": "data/people/p_emily_halpern.json"
   },
   {
     "id": "p_emily_hamilton",
@@ -18899,6 +18956,11 @@
     "name": "Emma Myles",
     "birth_year": 1987,
     "path": "data/people/p_emma_myles.json"
+  },
+  {
+    "id": "p_emma_nopola",
+    "name": "Emma Nopola",
+    "path": "data/people/p_emma_nopola.json"
   },
   {
     "id": "p_emma_nyberg",
@@ -23278,6 +23340,12 @@
     "path": "data/people/p_eric_dean_hordes.json"
   },
   {
+    "id": "p_eric_debegue",
+    "name": "Eric Debègue",
+    "birth_year": 1967,
+    "path": "data/people/p_eric_debegue.json"
+  },
+  {
     "id": "p_eric_deflandre",
     "name": "Éric Deflandre",
     "birth_year": 1973,
@@ -24643,6 +24711,12 @@
     "path": "data/people/p_eric_singer.json"
   },
   {
+    "id": "p_eric_slick",
+    "name": "Eric Slick",
+    "birth_year": 1987,
+    "path": "data/people/p_eric_slick.json"
+  },
+  {
     "id": "p_eric_slywitch",
     "name": "Eric Slywitch",
     "path": "data/people/p_eric_slywitch.json"
@@ -25926,6 +26000,11 @@
     "path": "data/people/p_erik_macarthur.json"
   },
   {
+    "id": "p_erik_macura",
+    "name": "Erik Macura",
+    "path": "data/people/p_erik_macura.json"
+  },
+  {
     "id": "p_erik_madsen",
     "name": "Erik Madsen",
     "birth_year": 1974,
@@ -26227,6 +26306,12 @@
     "name": "Erik Tomáš",
     "birth_year": 1975,
     "path": "data/people/p_erik_tomas.json"
+  },
+  {
+    "id": "p_erik_truffaz",
+    "name": "Erik Truffaz",
+    "birth_year": 1960,
+    "path": "data/people/p_erik_truffaz.json"
   },
   {
     "id": "p_erik_van_der_horst",
@@ -27320,6 +27405,12 @@
     "path": "data/people/p_erkko_lyytinen.json"
   },
   {
+    "id": "p_erko_laurimaa",
+    "name": "Erko Laurimaa",
+    "birth_year": 1987,
+    "path": "data/people/p_erko_laurimaa.json"
+  },
+  {
     "id": "p_erksine_wylie",
     "name": "Erksine Wylie",
     "path": "data/people/p_erksine_wylie.json"
@@ -27600,6 +27691,12 @@
     "name": "Ernest Prakasa",
     "birth_year": 1982,
     "path": "data/people/p_ernest_prakasa.json"
+  },
+  {
+    "id": "p_ernest_riera",
+    "name": "Ernest Riera",
+    "birth_year": 1976,
+    "path": "data/people/p_ernest_riera.json"
   },
   {
     "id": "p_ernest_samudera",
@@ -32760,6 +32857,12 @@
     "path": "data/people/p_eva_sayer.json"
   },
   {
+    "id": "p_eva_schulze",
+    "name": "Éva Schulze",
+    "birth_year": 1946,
+    "path": "data/people/p_eva_schulze.json"
+  },
+  {
     "id": "p_eva_senkova",
     "name": "Eva Šenková",
     "birth_year": 1923,
@@ -33359,6 +33462,11 @@
     "name": "Evan Lurie",
     "birth_year": 1954,
     "path": "data/people/p_evan_lurie.json"
+  },
+  {
+    "id": "p_evan_m_wiener",
+    "name": "Evan M. Wiener",
+    "path": "data/people/p_evan_m_wiener.json"
   },
   {
     "id": "p_evan_marsh",
