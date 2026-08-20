@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_edvard_grieg",
+  "name": "Edvard Grieg",
+  "external_ids": {
+    "wikidata": "Q80621",
+    "imdb": "nm0006113"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1843,
+  "death_year": 1907
+}
