@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_e_b_white",
+    "name": "E. B. White",
+    "birth_year": 1899,
+    "path": "data/people/p_e_b_white.json"
+  },
+  {
     "id": "p_e_e_bell",
     "name": "E. E. Bell",
     "birth_year": 1955,
@@ -604,6 +610,12 @@
     "name": "Eckart von Hirschhausen",
     "birth_year": 1967,
     "path": "data/people/p_eckart_von_hirschhausen.json"
+  },
+  {
+    "id": "p_eckes_malz",
+    "name": "Eckes Malz",
+    "birth_year": 1961,
+    "path": "data/people/p_eckes_malz.json"
   },
   {
     "id": "p_eckhard_bilz",
@@ -1740,6 +1752,12 @@
     "path": "data/people/p_edelen_mcwilliams.json"
   },
   {
+    "id": "p_edeltraud_rabitzer",
+    "name": "Edeltraud Rabitzer",
+    "birth_year": 1999,
+    "path": "data/people/p_edeltraud_rabitzer.json"
+  },
+  {
     "id": "p_edeltraud_schubert",
     "name": "Edeltraud Schubert",
     "birth_year": 1917,
@@ -2469,6 +2487,12 @@
     "path": "data/people/p_edmund_chen.json"
   },
   {
+    "id": "p_edmund_choi",
+    "name": "Edmund Choi",
+    "birth_year": 1999,
+    "path": "data/people/p_edmund_choi.json"
+  },
+  {
     "id": "p_edmund_donovan",
     "name": "Edmund Donovan",
     "birth_year": 1990,
@@ -3123,6 +3147,11 @@
     "name": "Eduardo Albino",
     "birth_year": 1982,
     "path": "data/people/p_eduardo_albino.json"
+  },
+  {
+    "id": "p_eduardo_arbide",
+    "name": "Eduardo Arbide",
+    "path": "data/people/p_eduardo_arbide.json"
   },
   {
     "id": "p_eduardo_ariasnath",
@@ -4780,6 +4809,11 @@
     "path": "data/people/p_efe_irele.json"
   },
   {
+    "id": "p_effi_shoshani",
+    "name": "Effi Shoshani",
+    "path": "data/people/p_effi_shoshani.json"
+  },
+  {
     "id": "p_effie",
     "name": "Effie",
     "birth_year": 1947,
@@ -4925,6 +4959,12 @@
     "name": "Egbert Jan Weeber",
     "birth_year": 1981,
     "path": "data/people/p_egbert_jan_weeber.json"
+  },
+  {
+    "id": "p_egberto_gismonti",
+    "name": "Egberto Gismonti",
+    "birth_year": 1947,
+    "path": "data/people/p_egberto_gismonti.json"
   },
   {
     "id": "p_ege_aydan",
@@ -5115,6 +5155,12 @@
     "name": "Egon Nuter",
     "birth_year": 1954,
     "path": "data/people/p_egon_nuter.json"
+  },
+  {
+    "id": "p_egon_riedel",
+    "name": "Egon Riedel",
+    "birth_year": 1965,
+    "path": "data/people/p_egon_riedel.json"
   },
   {
     "id": "p_egons_dombrovskis",
@@ -5732,6 +5778,12 @@
     "name": "Einar Kuusk",
     "birth_year": 1989,
     "path": "data/people/p_einar_kuusk.json"
+  },
+  {
+    "id": "p_einar_mar_gumundsson",
+    "name": "Einar Már Guðmundsson",
+    "birth_year": 1954,
+    "path": "data/people/p_einar_mar_gumundsson.json"
   },
   {
     "id": "p_einar_orn_benediktsson",
@@ -7807,6 +7859,12 @@
     "path": "data/people/p_elexis_monroe.json"
   },
   {
+    "id": "p_elfa_secioria",
+    "name": "Elfa Secioria",
+    "birth_year": 1959,
+    "path": "data/people/p_elfa_secioria.json"
+  },
+  {
     "id": "p_elfar_adalsteins",
     "name": "Elfar Adalsteins",
     "birth_year": 1971,
@@ -8590,6 +8648,12 @@
     "name": "Eliel Ford",
     "birth_year": 1992,
     "path": "data/people/p_eliel_ford.json"
+  },
+  {
+    "id": "p_eliette_abecassis",
+    "name": "Éliette Abécassis",
+    "birth_year": 1969,
+    "path": "data/people/p_eliette_abecassis.json"
   },
   {
     "id": "p_eliezer_mellul",
@@ -12686,6 +12750,12 @@
     "path": "data/people/p_elmer_back.json"
   },
   {
+    "id": "p_elmer_bernstein",
+    "name": "Elmer Bernstein",
+    "birth_year": 1922,
+    "path": "data/people/p_elmer_bernstein.json"
+  },
+  {
     "id": "p_elmer_estofanero_fuentes",
     "name": "Elmer Estofanero Fuentes",
     "path": "data/people/p_elmer_estofanero_fuentes.json"
@@ -14854,6 +14924,12 @@
     "name": "Emil Birk Hartmann",
     "birth_year": 1990,
     "path": "data/people/p_emil_birk_hartmann.json"
+  },
+  {
+    "id": "p_emil_braginsky",
+    "name": "Emil Braginsky",
+    "birth_year": 1921,
+    "path": "data/people/p_emil_braginsky.json"
   },
   {
     "id": "p_emil_brulin",
@@ -18482,6 +18558,12 @@
     "path": "data/people/p_emmanuele_aita.json"
   },
   {
+    "id": "p_emmanuele_bernheim",
+    "name": "Emmanuèle Bernheim",
+    "birth_year": 1955,
+    "path": "data/people/p_emmanuele_bernheim.json"
+  },
+  {
     "id": "p_emmanuella",
     "name": "Emmanuella",
     "birth_year": 2010,
@@ -18832,6 +18914,11 @@
     "name": "Empar Ferrer",
     "birth_year": 1946,
     "path": "data/people/p_empar_ferrer.json"
+  },
+  {
+    "id": "p_emperor_wen_of_han",
+    "name": "Emperor Wen of Han",
+    "path": "data/people/p_emperor_wen_of_han.json"
   },
   {
     "id": "p_empotoe_bosage",
@@ -19435,6 +19522,12 @@
     "name": "Enissa Amani",
     "birth_year": 1983,
     "path": "data/people/p_enissa_amani.json"
+  },
+  {
+    "id": "p_enjott_schneider",
+    "name": "Enjott Schneider",
+    "birth_year": 1950,
+    "path": "data/people/p_enjott_schneider.json"
   },
   {
     "id": "p_enkelejd_lluca",
@@ -20231,6 +20324,17 @@
     "name": "Enrique Pinti",
     "birth_year": 1939,
     "path": "data/people/p_enrique_pinti.json"
+  },
+  {
+    "id": "p_enrique_quezadas",
+    "name": "Enrique Quezadas",
+    "birth_year": 1955,
+    "path": "data/people/p_enrique_quezadas.json"
+  },
+  {
+    "id": "p_enrique_renteria_arriaga",
+    "name": "Enrique Rentería Arriaga",
+    "path": "data/people/p_enrique_renteria_arriaga.json"
   },
   {
     "id": "p_enrique_rivero",
@@ -22859,6 +22963,12 @@
     "path": "data/people/p_eric_rohmer.json"
   },
   {
+    "id": "p_eric_roth",
+    "name": "Eric Roth",
+    "birth_year": 1945,
+    "path": "data/people/p_eric_roth.json"
+  },
+  {
     "id": "p_eric_ruel",
     "name": "Éric Ruel",
     "path": "data/people/p_eric_ruel.json"
@@ -25432,6 +25542,12 @@
     "name": "Erlend Klarholm Nilsen",
     "birth_year": 1978,
     "path": "data/people/p_erlend_klarholm_nilsen.json"
+  },
+  {
+    "id": "p_erlend_loe",
+    "name": "Erlend Loe",
+    "birth_year": 1969,
+    "path": "data/people/p_erlend_loe.json"
   },
   {
     "id": "p_erlend_nervold",
@@ -29198,6 +29314,12 @@
     "path": "data/people/p_eum_moonsuk.json"
   },
   {
+    "id": "p_eumir_deodato",
+    "name": "Eumir Deodato",
+    "birth_year": 1943,
+    "path": "data/people/p_eumir_deodato.json"
+  },
+  {
     "id": "p_eun_joohee",
     "name": "Eun Joo-hee",
     "birth_year": 1980,
@@ -29627,6 +29749,12 @@
     "name": "Eva Gabor",
     "birth_year": 1919,
     "path": "data/people/p_eva_gabor.json"
+  },
+  {
+    "id": "p_eva_gancedo",
+    "name": "Eva Gancedo",
+    "birth_year": 1958,
+    "path": "data/people/p_eva_gancedo.json"
   },
   {
     "id": "p_eva_gardos",
@@ -31108,6 +31236,12 @@
     "path": "data/people/p_evan_lieberman.json"
   },
   {
+    "id": "p_evan_lurie",
+    "name": "Evan Lurie",
+    "birth_year": 1954,
+    "path": "data/people/p_evan_lurie.json"
+  },
+  {
     "id": "p_evan_marsh",
     "name": "Evan Marsh",
     "path": "data/people/p_evan_marsh.json"
@@ -31382,6 +31516,12 @@
     "id": "p_eve_curtis",
     "name": "Eve Curtis",
     "path": "data/people/p_eve_curtis.json"
+  },
+  {
+    "id": "p_eve_de_castro",
+    "name": "Ève de Castro",
+    "birth_year": 1960,
+    "path": "data/people/p_eve_de_castro.json"
   },
   {
     "id": "p_eve_deboise",
@@ -33046,6 +33186,12 @@
     "name": "Ezio Alovisi",
     "birth_year": 1933,
     "path": "data/people/p_ezio_alovisi.json"
+  },
+  {
+    "id": "p_ezio_bosso",
+    "name": "Ezio Bosso",
+    "birth_year": 1971,
+    "path": "data/people/p_ezio_bosso.json"
   },
   {
     "id": "p_ezio_greggio",
