@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ethan_gold",
+  "name": "Ethan Gold",
+  "external_ids": {
+    "wikidata": "Q105538037",
+    "imdb": "nm0324972"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
