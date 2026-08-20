@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_eoin_colfer",
+  "name": "Eoin Colfer",
+  "external_ids": {
+    "wikidata": "Q211893",
+    "imdb": "nm1379619"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}
