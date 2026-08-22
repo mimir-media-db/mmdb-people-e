@@ -8934,6 +8934,11 @@
     "path": "data/people/p_elia_galera.json"
   },
   {
+    "id": "p_elia_gasull_balada",
+    "name": "Èlia Gasull Balada",
+    "path": "data/people/p_elia_gasull_balada.json"
+  },
+  {
     "id": "p_elia_gezer",
     "name": "Elia Gezer",
     "path": "data/people/p_elia_gezer.json"
@@ -33865,6 +33870,12 @@
     "name": "Evanthia Reboutsika",
     "birth_year": 1958,
     "path": "data/people/p_evanthia_reboutsika.json"
+  },
+  {
+    "id": "p_evar_anvelt",
+    "name": "Evar Anvelt",
+    "birth_year": 1979,
+    "path": "data/people/p_evar_anvelt.json"
   },
   {
     "id": "p_evaristo_calvo",
